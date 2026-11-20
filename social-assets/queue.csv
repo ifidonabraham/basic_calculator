@@ -1,0 +1,1009 @@
+idx,sheet_no,pillar,concept,format,working_title
+0,1,Cybersecurity,Firewalls,Then vs Now,Firewalls: 2005 vs Today
+1,145,Software Engineering,Git and version control,Then vs Now,Git and version control: 2005 vs Today
+2,289,Web Development,HTML and CSS evolution,Then vs Now,HTML and CSS evolution: 2005 vs Today
+3,433,IT Support and Infrastructure,Networking basics (TCP/IP),Then vs Now,Networking basics (TCP/IP): 2005 vs Today
+4,577,Data and Analytics,Relational databases and SQL,Then vs Now,Relational databases and SQL: 2005 vs Today
+5,721,AI and Automation,Machine learning basics,Then vs Now,Machine learning basics: 2005 vs Today
+6,865,Tech Training and Research,CS degree vs bootcamp,Then vs Now,CS degree vs bootcamp: 2005 vs Today
+7,2,Cybersecurity,Firewalls,Explain it Twice,What Is Firewalls — Explained Twice (Beginner + Technical)
+8,146,Software Engineering,Git and version control,Explain it Twice,What Is Git and version control — Explained Twice (Beginner + Technical)
+9,290,Web Development,HTML and CSS evolution,Explain it Twice,What Is HTML and CSS evolution — Explained Twice (Beginner + Technical)
+10,434,IT Support and Infrastructure,Networking basics (TCP/IP),Explain it Twice,What Is Networking basics (TCP/IP) — Explained Twice (Beginner + Technical)
+11,578,Data and Analytics,Relational databases and SQL,Explain it Twice,What Is Relational databases and SQL — Explained Twice (Beginner + Technical)
+12,722,AI and Automation,Machine learning basics,Explain it Twice,What Is Machine learning basics — Explained Twice (Beginner + Technical)
+13,866,Tech Training and Research,CS degree vs bootcamp,Explain it Twice,What Is CS degree vs bootcamp — Explained Twice (Beginner + Technical)
+14,3,Cybersecurity,Firewalls,Myth vs Reality,Firewalls: Myth vs Reality
+15,147,Software Engineering,Git and version control,Myth vs Reality,Git and version control: Myth vs Reality
+16,291,Web Development,HTML and CSS evolution,Myth vs Reality,HTML and CSS evolution: Myth vs Reality
+17,435,IT Support and Infrastructure,Networking basics (TCP/IP),Myth vs Reality,Networking basics (TCP/IP): Myth vs Reality
+18,579,Data and Analytics,Relational databases and SQL,Myth vs Reality,Relational databases and SQL: Myth vs Reality
+19,723,AI and Automation,Machine learning basics,Myth vs Reality,Machine learning basics: Myth vs Reality
+20,867,Tech Training and Research,CS degree vs bootcamp,Myth vs Reality,CS degree vs bootcamp: Myth vs Reality
+21,4,Cybersecurity,Firewalls,5-Minute Practical,Firewalls in 5 Minutes: What You Actually Need to Know
+22,148,Software Engineering,Git and version control,5-Minute Practical,Git and version control in 5 Minutes: What You Actually Need to Know
+23,292,Web Development,HTML and CSS evolution,5-Minute Practical,HTML and CSS evolution in 5 Minutes: What You Actually Need to Know
+24,436,IT Support and Infrastructure,Networking basics (TCP/IP),5-Minute Practical,Networking basics (TCP/IP) in 5 Minutes: What You Actually Need to Know
+25,580,Data and Analytics,Relational databases and SQL,5-Minute Practical,Relational databases and SQL in 5 Minutes: What You Actually Need to Know
+26,724,AI and Automation,Machine learning basics,5-Minute Practical,Machine learning basics in 5 Minutes: What You Actually Need to Know
+27,868,Tech Training and Research,CS degree vs bootcamp,5-Minute Practical,CS degree vs bootcamp in 5 Minutes: What You Actually Need to Know
+28,5,Cybersecurity,Firewalls,Field Breakdown,Where Firewalls Actually Shows Up in Real Tech Jobs
+29,149,Software Engineering,Git and version control,Field Breakdown,Where Git and version control Actually Shows Up in Real Tech Jobs
+30,293,Web Development,HTML and CSS evolution,Field Breakdown,Where HTML and CSS evolution Actually Shows Up in Real Tech Jobs
+31,437,IT Support and Infrastructure,Networking basics (TCP/IP),Field Breakdown,Where Networking basics (TCP/IP) Actually Shows Up in Real Tech Jobs
+32,581,Data and Analytics,Relational databases and SQL,Field Breakdown,Where Relational databases and SQL Actually Shows Up in Real Tech Jobs
+33,725,AI and Automation,Machine learning basics,Field Breakdown,Where Machine learning basics Actually Shows Up in Real Tech Jobs
+34,869,Tech Training and Research,CS degree vs bootcamp,Field Breakdown,Where CS degree vs bootcamp Actually Shows Up in Real Tech Jobs
+35,6,Cybersecurity,Firewalls,Research Digest,The Research Behind Firewalls: What's Actually Changed
+36,150,Software Engineering,Git and version control,Research Digest,The Research Behind Git and version control: What's Actually Changed
+37,294,Web Development,HTML and CSS evolution,Research Digest,The Research Behind HTML and CSS evolution: What's Actually Changed
+38,438,IT Support and Infrastructure,Networking basics (TCP/IP),Research Digest,The Research Behind Networking basics (TCP/IP): What's Actually Changed
+39,582,Data and Analytics,Relational databases and SQL,Research Digest,The Research Behind Relational databases and SQL: What's Actually Changed
+40,726,AI and Automation,Machine learning basics,Research Digest,The Research Behind Machine learning basics: What's Actually Changed
+41,870,Tech Training and Research,CS degree vs bootcamp,Research Digest,The Research Behind CS degree vs bootcamp: What's Actually Changed
+42,7,Cybersecurity,Antivirus software,Then vs Now,Antivirus software: 2005 vs Today
+43,151,Software Engineering,Object-oriented programming,Then vs Now,Object-oriented programming: 2005 vs Today
+44,295,Web Development,JavaScript framework history (jQuery to React),Then vs Now,JavaScript framework history (jQuery to React): 2005 vs Today
+45,439,IT Support and Infrastructure,DNS,Then vs Now,DNS: 2005 vs Today
+46,583,Data and Analytics,NoSQL databases,Then vs Now,NoSQL databases: 2005 vs Today
+47,727,AI and Automation,Deep learning and neural networks,Then vs Now,Deep learning and neural networks: 2005 vs Today
+48,871,Tech Training and Research,Self-taught programming paths,Then vs Now,Self-taught programming paths: 2005 vs Today
+49,8,Cybersecurity,Antivirus software,Explain it Twice,What Is Antivirus software — Explained Twice (Beginner + Technical)
+50,152,Software Engineering,Object-oriented programming,Explain it Twice,What Is Object-oriented programming — Explained Twice (Beginner + Technical)
+51,296,Web Development,JavaScript framework history (jQuery to React),Explain it Twice,What Is JavaScript framework history (jQuery to React) — Explained Twice (Beginner + Technical)
+52,440,IT Support and Infrastructure,DNS,Explain it Twice,What Is DNS — Explained Twice (Beginner + Technical)
+53,584,Data and Analytics,NoSQL databases,Explain it Twice,What Is NoSQL databases — Explained Twice (Beginner + Technical)
+54,728,AI and Automation,Deep learning and neural networks,Explain it Twice,What Is Deep learning and neural networks — Explained Twice (Beginner + Technical)
+55,872,Tech Training and Research,Self-taught programming paths,Explain it Twice,What Is Self-taught programming paths — Explained Twice (Beginner + Technical)
+56,9,Cybersecurity,Antivirus software,Myth vs Reality,Antivirus software: Myth vs Reality
+57,153,Software Engineering,Object-oriented programming,Myth vs Reality,Object-oriented programming: Myth vs Reality
+58,297,Web Development,JavaScript framework history (jQuery to React),Myth vs Reality,JavaScript framework history (jQuery to React): Myth vs Reality
+59,441,IT Support and Infrastructure,DNS,Myth vs Reality,DNS: Myth vs Reality
+60,585,Data and Analytics,NoSQL databases,Myth vs Reality,NoSQL databases: Myth vs Reality
+61,729,AI and Automation,Deep learning and neural networks,Myth vs Reality,Deep learning and neural networks: Myth vs Reality
+62,873,Tech Training and Research,Self-taught programming paths,Myth vs Reality,Self-taught programming paths: Myth vs Reality
+63,10,Cybersecurity,Antivirus software,5-Minute Practical,Antivirus software in 5 Minutes: What You Actually Need to Know
+64,154,Software Engineering,Object-oriented programming,5-Minute Practical,Object-oriented programming in 5 Minutes: What You Actually Need to Know
+65,298,Web Development,JavaScript framework history (jQuery to React),5-Minute Practical,JavaScript framework history (jQuery to React) in 5 Minutes: What You Actually Need to Know
+66,442,IT Support and Infrastructure,DNS,5-Minute Practical,DNS in 5 Minutes: What You Actually Need to Know
+67,586,Data and Analytics,NoSQL databases,5-Minute Practical,NoSQL databases in 5 Minutes: What You Actually Need to Know
+68,730,AI and Automation,Deep learning and neural networks,5-Minute Practical,Deep learning and neural networks in 5 Minutes: What You Actually Need to Know
+69,874,Tech Training and Research,Self-taught programming paths,5-Minute Practical,Self-taught programming paths in 5 Minutes: What You Actually Need to Know
+70,11,Cybersecurity,Antivirus software,Field Breakdown,Where Antivirus software Actually Shows Up in Real Tech Jobs
+71,155,Software Engineering,Object-oriented programming,Field Breakdown,Where Object-oriented programming Actually Shows Up in Real Tech Jobs
+72,299,Web Development,JavaScript framework history (jQuery to React),Field Breakdown,Where JavaScript framework history (jQuery to React) Actually Shows Up in Real Tech Jobs
+73,443,IT Support and Infrastructure,DNS,Field Breakdown,Where DNS Actually Shows Up in Real Tech Jobs
+74,587,Data and Analytics,NoSQL databases,Field Breakdown,Where NoSQL databases Actually Shows Up in Real Tech Jobs
+75,731,AI and Automation,Deep learning and neural networks,Field Breakdown,Where Deep learning and neural networks Actually Shows Up in Real Tech Jobs
+76,875,Tech Training and Research,Self-taught programming paths,Field Breakdown,Where Self-taught programming paths Actually Shows Up in Real Tech Jobs
+77,12,Cybersecurity,Antivirus software,Research Digest,The Research Behind Antivirus software: What's Actually Changed
+78,156,Software Engineering,Object-oriented programming,Research Digest,The Research Behind Object-oriented programming: What's Actually Changed
+79,300,Web Development,JavaScript framework history (jQuery to React),Research Digest,The Research Behind JavaScript framework history (jQuery to React): What's Actually Changed
+80,444,IT Support and Infrastructure,DNS,Research Digest,The Research Behind DNS: What's Actually Changed
+81,588,Data and Analytics,NoSQL databases,Research Digest,The Research Behind NoSQL databases: What's Actually Changed
+82,732,AI and Automation,Deep learning and neural networks,Research Digest,The Research Behind Deep learning and neural networks: What's Actually Changed
+83,876,Tech Training and Research,Self-taught programming paths,Research Digest,The Research Behind Self-taught programming paths: What's Actually Changed
+84,13,Cybersecurity,Phishing attacks,Then vs Now,Phishing attacks: 2005 vs Today
+85,157,Software Engineering,Functional programming,Then vs Now,Functional programming: 2005 vs Today
+86,301,Web Development,Responsive design,Then vs Now,Responsive design: 2005 vs Today
+87,445,IT Support and Infrastructure,Virtualization,Then vs Now,Virtualization: 2005 vs Today
+88,589,Data and Analytics,Data warehousing,Then vs Now,Data warehousing: 2005 vs Today
+89,733,AI and Automation,Large language models (LLMs),Then vs Now,Large language models (LLMs): 2005 vs Today
+90,877,Tech Training and Research,Reading technical papers,Then vs Now,Reading technical papers: 2005 vs Today
+91,14,Cybersecurity,Phishing attacks,Explain it Twice,What Is Phishing attacks — Explained Twice (Beginner + Technical)
+92,158,Software Engineering,Functional programming,Explain it Twice,What Is Functional programming — Explained Twice (Beginner + Technical)
+93,302,Web Development,Responsive design,Explain it Twice,What Is Responsive design — Explained Twice (Beginner + Technical)
+94,446,IT Support and Infrastructure,Virtualization,Explain it Twice,What Is Virtualization — Explained Twice (Beginner + Technical)
+95,590,Data and Analytics,Data warehousing,Explain it Twice,What Is Data warehousing — Explained Twice (Beginner + Technical)
+96,734,AI and Automation,Large language models (LLMs),Explain it Twice,What Is Large language models (LLMs) — Explained Twice (Beginner + Technical)
+97,878,Tech Training and Research,Reading technical papers,Explain it Twice,What Is Reading technical papers — Explained Twice (Beginner + Technical)
+98,15,Cybersecurity,Phishing attacks,Myth vs Reality,Phishing attacks: Myth vs Reality
+99,159,Software Engineering,Functional programming,Myth vs Reality,Functional programming: Myth vs Reality
+100,303,Web Development,Responsive design,Myth vs Reality,Responsive design: Myth vs Reality
+101,447,IT Support and Infrastructure,Virtualization,Myth vs Reality,Virtualization: Myth vs Reality
+102,591,Data and Analytics,Data warehousing,Myth vs Reality,Data warehousing: Myth vs Reality
+103,735,AI and Automation,Large language models (LLMs),Myth vs Reality,Large language models (LLMs): Myth vs Reality
+104,879,Tech Training and Research,Reading technical papers,Myth vs Reality,Reading technical papers: Myth vs Reality
+105,16,Cybersecurity,Phishing attacks,5-Minute Practical,Phishing attacks in 5 Minutes: What You Actually Need to Know
+106,160,Software Engineering,Functional programming,5-Minute Practical,Functional programming in 5 Minutes: What You Actually Need to Know
+107,304,Web Development,Responsive design,5-Minute Practical,Responsive design in 5 Minutes: What You Actually Need to Know
+108,448,IT Support and Infrastructure,Virtualization,5-Minute Practical,Virtualization in 5 Minutes: What You Actually Need to Know
+109,592,Data and Analytics,Data warehousing,5-Minute Practical,Data warehousing in 5 Minutes: What You Actually Need to Know
+110,736,AI and Automation,Large language models (LLMs),5-Minute Practical,Large language models (LLMs) in 5 Minutes: What You Actually Need to Know
+111,880,Tech Training and Research,Reading technical papers,5-Minute Practical,Reading technical papers in 5 Minutes: What You Actually Need to Know
+112,17,Cybersecurity,Phishing attacks,Field Breakdown,Where Phishing attacks Actually Shows Up in Real Tech Jobs
+113,161,Software Engineering,Functional programming,Field Breakdown,Where Functional programming Actually Shows Up in Real Tech Jobs
+114,305,Web Development,Responsive design,Field Breakdown,Where Responsive design Actually Shows Up in Real Tech Jobs
+115,449,IT Support and Infrastructure,Virtualization,Field Breakdown,Where Virtualization Actually Shows Up in Real Tech Jobs
+116,593,Data and Analytics,Data warehousing,Field Breakdown,Where Data warehousing Actually Shows Up in Real Tech Jobs
+117,737,AI and Automation,Large language models (LLMs),Field Breakdown,Where Large language models (LLMs) Actually Shows Up in Real Tech Jobs
+118,881,Tech Training and Research,Reading technical papers,Field Breakdown,Where Reading technical papers Actually Shows Up in Real Tech Jobs
+119,18,Cybersecurity,Phishing attacks,Research Digest,The Research Behind Phishing attacks: What's Actually Changed
+120,162,Software Engineering,Functional programming,Research Digest,The Research Behind Functional programming: What's Actually Changed
+121,306,Web Development,Responsive design,Research Digest,The Research Behind Responsive design: What's Actually Changed
+122,450,IT Support and Infrastructure,Virtualization,Research Digest,The Research Behind Virtualization: What's Actually Changed
+123,594,Data and Analytics,Data warehousing,Research Digest,The Research Behind Data warehousing: What's Actually Changed
+124,738,AI and Automation,Large language models (LLMs),Research Digest,The Research Behind Large language models (LLMs): What's Actually Changed
+125,882,Tech Training and Research,Reading technical papers,Research Digest,The Research Behind Reading technical papers: What's Actually Changed
+126,19,Cybersecurity,Ransomware,Then vs Now,Ransomware: 2005 vs Today
+127,163,Software Engineering,Design patterns,Then vs Now,Design patterns: 2005 vs Today
+128,307,Web Development,Progressive Web Apps,Then vs Now,Progressive Web Apps: 2005 vs Today
+129,451,IT Support and Infrastructure,Cloud computing (IaaS/PaaS/SaaS),Then vs Now,Cloud computing (IaaS/PaaS/SaaS): 2005 vs Today
+130,595,Data and Analytics,Big data (Hadoop/Spark),Then vs Now,Big data (Hadoop/Spark): 2005 vs Today
+131,739,AI and Automation,Prompt engineering,Then vs Now,Prompt engineering: 2005 vs Today
+132,883,Tech Training and Research,"Tech certifications (CompTIA, AWS, etc.)",Then vs Now,"Tech certifications (CompTIA, AWS, etc.): 2005 vs Today"
+133,20,Cybersecurity,Ransomware,Explain it Twice,What Is Ransomware — Explained Twice (Beginner + Technical)
+134,164,Software Engineering,Design patterns,Explain it Twice,What Is Design patterns — Explained Twice (Beginner + Technical)
+135,308,Web Development,Progressive Web Apps,Explain it Twice,What Is Progressive Web Apps — Explained Twice (Beginner + Technical)
+136,452,IT Support and Infrastructure,Cloud computing (IaaS/PaaS/SaaS),Explain it Twice,What Is Cloud computing (IaaS/PaaS/SaaS) — Explained Twice (Beginner + Technical)
+137,596,Data and Analytics,Big data (Hadoop/Spark),Explain it Twice,What Is Big data (Hadoop/Spark) — Explained Twice (Beginner + Technical)
+138,740,AI and Automation,Prompt engineering,Explain it Twice,What Is Prompt engineering — Explained Twice (Beginner + Technical)
+139,884,Tech Training and Research,"Tech certifications (CompTIA, AWS, etc.)",Explain it Twice,"What Is Tech certifications (CompTIA, AWS, etc.) — Explained Twice (Beginner + Technical)"
+140,21,Cybersecurity,Ransomware,Myth vs Reality,Ransomware: Myth vs Reality
+141,165,Software Engineering,Design patterns,Myth vs Reality,Design patterns: Myth vs Reality
+142,309,Web Development,Progressive Web Apps,Myth vs Reality,Progressive Web Apps: Myth vs Reality
+143,453,IT Support and Infrastructure,Cloud computing (IaaS/PaaS/SaaS),Myth vs Reality,Cloud computing (IaaS/PaaS/SaaS): Myth vs Reality
+144,597,Data and Analytics,Big data (Hadoop/Spark),Myth vs Reality,Big data (Hadoop/Spark): Myth vs Reality
+145,741,AI and Automation,Prompt engineering,Myth vs Reality,Prompt engineering: Myth vs Reality
+146,885,Tech Training and Research,"Tech certifications (CompTIA, AWS, etc.)",Myth vs Reality,"Tech certifications (CompTIA, AWS, etc.): Myth vs Reality"
+147,22,Cybersecurity,Ransomware,5-Minute Practical,Ransomware in 5 Minutes: What You Actually Need to Know
+148,166,Software Engineering,Design patterns,5-Minute Practical,Design patterns in 5 Minutes: What You Actually Need to Know
+149,310,Web Development,Progressive Web Apps,5-Minute Practical,Progressive Web Apps in 5 Minutes: What You Actually Need to Know
+150,454,IT Support and Infrastructure,Cloud computing (IaaS/PaaS/SaaS),5-Minute Practical,Cloud computing (IaaS/PaaS/SaaS) in 5 Minutes: What You Actually Need to Know
+151,598,Data and Analytics,Big data (Hadoop/Spark),5-Minute Practical,Big data (Hadoop/Spark) in 5 Minutes: What You Actually Need to Know
+152,742,AI and Automation,Prompt engineering,5-Minute Practical,Prompt engineering in 5 Minutes: What You Actually Need to Know
+153,886,Tech Training and Research,"Tech certifications (CompTIA, AWS, etc.)",5-Minute Practical,"Tech certifications (CompTIA, AWS, etc.) in 5 Minutes: What You Actually Need to Know"
+154,23,Cybersecurity,Ransomware,Field Breakdown,Where Ransomware Actually Shows Up in Real Tech Jobs
+155,167,Software Engineering,Design patterns,Field Breakdown,Where Design patterns Actually Shows Up in Real Tech Jobs
+156,311,Web Development,Progressive Web Apps,Field Breakdown,Where Progressive Web Apps Actually Shows Up in Real Tech Jobs
+157,455,IT Support and Infrastructure,Cloud computing (IaaS/PaaS/SaaS),Field Breakdown,Where Cloud computing (IaaS/PaaS/SaaS) Actually Shows Up in Real Tech Jobs
+158,599,Data and Analytics,Big data (Hadoop/Spark),Field Breakdown,Where Big data (Hadoop/Spark) Actually Shows Up in Real Tech Jobs
+159,743,AI and Automation,Prompt engineering,Field Breakdown,Where Prompt engineering Actually Shows Up in Real Tech Jobs
+160,887,Tech Training and Research,"Tech certifications (CompTIA, AWS, etc.)",Field Breakdown,"Where Tech certifications (CompTIA, AWS, etc.) Actually Shows Up in Real Tech Jobs"
+161,24,Cybersecurity,Ransomware,Research Digest,The Research Behind Ransomware: What's Actually Changed
+162,168,Software Engineering,Design patterns,Research Digest,The Research Behind Design patterns: What's Actually Changed
+163,312,Web Development,Progressive Web Apps,Research Digest,The Research Behind Progressive Web Apps: What's Actually Changed
+164,456,IT Support and Infrastructure,Cloud computing (IaaS/PaaS/SaaS),Research Digest,The Research Behind Cloud computing (IaaS/PaaS/SaaS): What's Actually Changed
+165,600,Data and Analytics,Big data (Hadoop/Spark),Research Digest,The Research Behind Big data (Hadoop/Spark): What's Actually Changed
+166,744,AI and Automation,Prompt engineering,Research Digest,The Research Behind Prompt engineering: What's Actually Changed
+167,888,Tech Training and Research,"Tech certifications (CompTIA, AWS, etc.)",Research Digest,"The Research Behind Tech certifications (CompTIA, AWS, etc.): What's Actually Changed"
+168,25,Cybersecurity,Zero-day exploits,Then vs Now,Zero-day exploits: 2005 vs Today
+169,169,Software Engineering,Unit testing and TDD,Then vs Now,Unit testing and TDD: 2005 vs Today
+170,313,Web Development,Static site generators,Then vs Now,Static site generators: 2005 vs Today
+171,457,IT Support and Infrastructure,Data centers,Then vs Now,Data centers: 2005 vs Today
+172,601,Data and Analytics,ETL pipelines,Then vs Now,ETL pipelines: 2005 vs Today
+173,745,AI and Automation,"Generative AI (images, video)",Then vs Now,"Generative AI (images, video): 2005 vs Today"
+174,889,Tech Training and Research,Building a developer portfolio,Then vs Now,Building a developer portfolio: 2005 vs Today
+175,26,Cybersecurity,Zero-day exploits,Explain it Twice,What Is Zero-day exploits — Explained Twice (Beginner + Technical)
+176,170,Software Engineering,Unit testing and TDD,Explain it Twice,What Is Unit testing and TDD — Explained Twice (Beginner + Technical)
+177,314,Web Development,Static site generators,Explain it Twice,What Is Static site generators — Explained Twice (Beginner + Technical)
+178,458,IT Support and Infrastructure,Data centers,Explain it Twice,What Is Data centers — Explained Twice (Beginner + Technical)
+179,602,Data and Analytics,ETL pipelines,Explain it Twice,What Is ETL pipelines — Explained Twice (Beginner + Technical)
+180,746,AI and Automation,"Generative AI (images, video)",Explain it Twice,"What Is Generative AI (images, video) — Explained Twice (Beginner + Technical)"
+181,890,Tech Training and Research,Building a developer portfolio,Explain it Twice,What Is Building a developer portfolio — Explained Twice (Beginner + Technical)
+182,27,Cybersecurity,Zero-day exploits,Myth vs Reality,Zero-day exploits: Myth vs Reality
+183,171,Software Engineering,Unit testing and TDD,Myth vs Reality,Unit testing and TDD: Myth vs Reality
+184,315,Web Development,Static site generators,Myth vs Reality,Static site generators: Myth vs Reality
+185,459,IT Support and Infrastructure,Data centers,Myth vs Reality,Data centers: Myth vs Reality
+186,603,Data and Analytics,ETL pipelines,Myth vs Reality,ETL pipelines: Myth vs Reality
+187,747,AI and Automation,"Generative AI (images, video)",Myth vs Reality,"Generative AI (images, video): Myth vs Reality"
+188,891,Tech Training and Research,Building a developer portfolio,Myth vs Reality,Building a developer portfolio: Myth vs Reality
+189,28,Cybersecurity,Zero-day exploits,5-Minute Practical,Zero-day exploits in 5 Minutes: What You Actually Need to Know
+190,172,Software Engineering,Unit testing and TDD,5-Minute Practical,Unit testing and TDD in 5 Minutes: What You Actually Need to Know
+191,316,Web Development,Static site generators,5-Minute Practical,Static site generators in 5 Minutes: What You Actually Need to Know
+192,460,IT Support and Infrastructure,Data centers,5-Minute Practical,Data centers in 5 Minutes: What You Actually Need to Know
+193,604,Data and Analytics,ETL pipelines,5-Minute Practical,ETL pipelines in 5 Minutes: What You Actually Need to Know
+194,748,AI and Automation,"Generative AI (images, video)",5-Minute Practical,"Generative AI (images, video) in 5 Minutes: What You Actually Need to Know"
+195,892,Tech Training and Research,Building a developer portfolio,5-Minute Practical,Building a developer portfolio in 5 Minutes: What You Actually Need to Know
+196,29,Cybersecurity,Zero-day exploits,Field Breakdown,Where Zero-day exploits Actually Shows Up in Real Tech Jobs
+197,173,Software Engineering,Unit testing and TDD,Field Breakdown,Where Unit testing and TDD Actually Shows Up in Real Tech Jobs
+198,317,Web Development,Static site generators,Field Breakdown,Where Static site generators Actually Shows Up in Real Tech Jobs
+199,461,IT Support and Infrastructure,Data centers,Field Breakdown,Where Data centers Actually Shows Up in Real Tech Jobs
+200,605,Data and Analytics,ETL pipelines,Field Breakdown,Where ETL pipelines Actually Shows Up in Real Tech Jobs
+201,749,AI and Automation,"Generative AI (images, video)",Field Breakdown,"Where Generative AI (images, video) Actually Shows Up in Real Tech Jobs"
+202,893,Tech Training and Research,Building a developer portfolio,Field Breakdown,Where Building a developer portfolio Actually Shows Up in Real Tech Jobs
+203,30,Cybersecurity,Zero-day exploits,Research Digest,The Research Behind Zero-day exploits: What's Actually Changed
+204,174,Software Engineering,Unit testing and TDD,Research Digest,The Research Behind Unit testing and TDD: What's Actually Changed
+205,318,Web Development,Static site generators,Research Digest,The Research Behind Static site generators: What's Actually Changed
+206,462,IT Support and Infrastructure,Data centers,Research Digest,The Research Behind Data centers: What's Actually Changed
+207,606,Data and Analytics,ETL pipelines,Research Digest,The Research Behind ETL pipelines: What's Actually Changed
+208,750,AI and Automation,"Generative AI (images, video)",Research Digest,"The Research Behind Generative AI (images, video): What's Actually Changed"
+209,894,Tech Training and Research,Building a developer portfolio,Research Digest,The Research Behind Building a developer portfolio: What's Actually Changed
+210,31,Cybersecurity,Multi-factor authentication,Then vs Now,Multi-factor authentication: 2005 vs Today
+211,175,Software Engineering,Agile and Scrum,Then vs Now,Agile and Scrum: 2005 vs Today
+212,319,Web Development,Server-side vs client-side rendering,Then vs Now,Server-side vs client-side rendering: 2005 vs Today
+213,463,IT Support and Infrastructure,Help desk and ticketing systems,Then vs Now,Help desk and ticketing systems: 2005 vs Today
+214,607,Data and Analytics,Data visualization,Then vs Now,Data visualization: 2005 vs Today
+215,751,AI and Automation,Computer vision,Then vs Now,Computer vision: 2005 vs Today
+216,895,Tech Training and Research,Open source as a learning tool,Then vs Now,Open source as a learning tool: 2005 vs Today
+217,32,Cybersecurity,Multi-factor authentication,Explain it Twice,What Is Multi-factor authentication — Explained Twice (Beginner + Technical)
+218,176,Software Engineering,Agile and Scrum,Explain it Twice,What Is Agile and Scrum — Explained Twice (Beginner + Technical)
+219,320,Web Development,Server-side vs client-side rendering,Explain it Twice,What Is Server-side vs client-side rendering — Explained Twice (Beginner + Technical)
+220,464,IT Support and Infrastructure,Help desk and ticketing systems,Explain it Twice,What Is Help desk and ticketing systems — Explained Twice (Beginner + Technical)
+221,608,Data and Analytics,Data visualization,Explain it Twice,What Is Data visualization — Explained Twice (Beginner + Technical)
+222,752,AI and Automation,Computer vision,Explain it Twice,What Is Computer vision — Explained Twice (Beginner + Technical)
+223,896,Tech Training and Research,Open source as a learning tool,Explain it Twice,What Is Open source as a learning tool — Explained Twice (Beginner + Technical)
+224,33,Cybersecurity,Multi-factor authentication,Myth vs Reality,Multi-factor authentication: Myth vs Reality
+225,177,Software Engineering,Agile and Scrum,Myth vs Reality,Agile and Scrum: Myth vs Reality
+226,321,Web Development,Server-side vs client-side rendering,Myth vs Reality,Server-side vs client-side rendering: Myth vs Reality
+227,465,IT Support and Infrastructure,Help desk and ticketing systems,Myth vs Reality,Help desk and ticketing systems: Myth vs Reality
+228,609,Data and Analytics,Data visualization,Myth vs Reality,Data visualization: Myth vs Reality
+229,753,AI and Automation,Computer vision,Myth vs Reality,Computer vision: Myth vs Reality
+230,897,Tech Training and Research,Open source as a learning tool,Myth vs Reality,Open source as a learning tool: Myth vs Reality
+231,34,Cybersecurity,Multi-factor authentication,5-Minute Practical,Multi-factor authentication in 5 Minutes: What You Actually Need to Know
+232,178,Software Engineering,Agile and Scrum,5-Minute Practical,Agile and Scrum in 5 Minutes: What You Actually Need to Know
+233,322,Web Development,Server-side vs client-side rendering,5-Minute Practical,Server-side vs client-side rendering in 5 Minutes: What You Actually Need to Know
+234,466,IT Support and Infrastructure,Help desk and ticketing systems,5-Minute Practical,Help desk and ticketing systems in 5 Minutes: What You Actually Need to Know
+235,610,Data and Analytics,Data visualization,5-Minute Practical,Data visualization in 5 Minutes: What You Actually Need to Know
+236,754,AI and Automation,Computer vision,5-Minute Practical,Computer vision in 5 Minutes: What You Actually Need to Know
+237,898,Tech Training and Research,Open source as a learning tool,5-Minute Practical,Open source as a learning tool in 5 Minutes: What You Actually Need to Know
+238,35,Cybersecurity,Multi-factor authentication,Field Breakdown,Where Multi-factor authentication Actually Shows Up in Real Tech Jobs
+239,179,Software Engineering,Agile and Scrum,Field Breakdown,Where Agile and Scrum Actually Shows Up in Real Tech Jobs
+240,323,Web Development,Server-side vs client-side rendering,Field Breakdown,Where Server-side vs client-side rendering Actually Shows Up in Real Tech Jobs
+241,467,IT Support and Infrastructure,Help desk and ticketing systems,Field Breakdown,Where Help desk and ticketing systems Actually Shows Up in Real Tech Jobs
+242,611,Data and Analytics,Data visualization,Field Breakdown,Where Data visualization Actually Shows Up in Real Tech Jobs
+243,755,AI and Automation,Computer vision,Field Breakdown,Where Computer vision Actually Shows Up in Real Tech Jobs
+244,899,Tech Training and Research,Open source as a learning tool,Field Breakdown,Where Open source as a learning tool Actually Shows Up in Real Tech Jobs
+245,36,Cybersecurity,Multi-factor authentication,Research Digest,The Research Behind Multi-factor authentication: What's Actually Changed
+246,180,Software Engineering,Agile and Scrum,Research Digest,The Research Behind Agile and Scrum: What's Actually Changed
+247,324,Web Development,Server-side vs client-side rendering,Research Digest,The Research Behind Server-side vs client-side rendering: What's Actually Changed
+248,468,IT Support and Infrastructure,Help desk and ticketing systems,Research Digest,The Research Behind Help desk and ticketing systems: What's Actually Changed
+249,612,Data and Analytics,Data visualization,Research Digest,The Research Behind Data visualization: What's Actually Changed
+250,756,AI and Automation,Computer vision,Research Digest,The Research Behind Computer vision: What's Actually Changed
+251,900,Tech Training and Research,Open source as a learning tool,Research Digest,The Research Behind Open source as a learning tool: What's Actually Changed
+252,37,Cybersecurity,VPNs,Then vs Now,VPNs: 2005 vs Today
+253,181,Software Engineering,Waterfall vs Agile,Then vs Now,Waterfall vs Agile: 2005 vs Today
+254,325,Web Development,Web accessibility (WCAG),Then vs Now,Web accessibility (WCAG): 2005 vs Today
+255,469,IT Support and Infrastructure,Remote work IT support,Then vs Now,Remote work IT support: 2005 vs Today
+256,613,Data and Analytics,Business intelligence tools,Then vs Now,Business intelligence tools: 2005 vs Today
+257,757,AI and Automation,Natural language processing,Then vs Now,Natural language processing: 2005 vs Today
+258,901,Tech Training and Research,Internship hunting in tech,Then vs Now,Internship hunting in tech: 2005 vs Today
+259,38,Cybersecurity,VPNs,Explain it Twice,What Is VPNs — Explained Twice (Beginner + Technical)
+260,182,Software Engineering,Waterfall vs Agile,Explain it Twice,What Is Waterfall vs Agile — Explained Twice (Beginner + Technical)
+261,326,Web Development,Web accessibility (WCAG),Explain it Twice,What Is Web accessibility (WCAG) — Explained Twice (Beginner + Technical)
+262,470,IT Support and Infrastructure,Remote work IT support,Explain it Twice,What Is Remote work IT support — Explained Twice (Beginner + Technical)
+263,614,Data and Analytics,Business intelligence tools,Explain it Twice,What Is Business intelligence tools — Explained Twice (Beginner + Technical)
+264,758,AI and Automation,Natural language processing,Explain it Twice,What Is Natural language processing — Explained Twice (Beginner + Technical)
+265,902,Tech Training and Research,Internship hunting in tech,Explain it Twice,What Is Internship hunting in tech — Explained Twice (Beginner + Technical)
+266,39,Cybersecurity,VPNs,Myth vs Reality,VPNs: Myth vs Reality
+267,183,Software Engineering,Waterfall vs Agile,Myth vs Reality,Waterfall vs Agile: Myth vs Reality
+268,327,Web Development,Web accessibility (WCAG),Myth vs Reality,Web accessibility (WCAG): Myth vs Reality
+269,471,IT Support and Infrastructure,Remote work IT support,Myth vs Reality,Remote work IT support: Myth vs Reality
+270,615,Data and Analytics,Business intelligence tools,Myth vs Reality,Business intelligence tools: Myth vs Reality
+271,759,AI and Automation,Natural language processing,Myth vs Reality,Natural language processing: Myth vs Reality
+272,903,Tech Training and Research,Internship hunting in tech,Myth vs Reality,Internship hunting in tech: Myth vs Reality
+273,40,Cybersecurity,VPNs,5-Minute Practical,VPNs in 5 Minutes: What You Actually Need to Know
+274,184,Software Engineering,Waterfall vs Agile,5-Minute Practical,Waterfall vs Agile in 5 Minutes: What You Actually Need to Know
+275,328,Web Development,Web accessibility (WCAG),5-Minute Practical,Web accessibility (WCAG) in 5 Minutes: What You Actually Need to Know
+276,472,IT Support and Infrastructure,Remote work IT support,5-Minute Practical,Remote work IT support in 5 Minutes: What You Actually Need to Know
+277,616,Data and Analytics,Business intelligence tools,5-Minute Practical,Business intelligence tools in 5 Minutes: What You Actually Need to Know
+278,760,AI and Automation,Natural language processing,5-Minute Practical,Natural language processing in 5 Minutes: What You Actually Need to Know
+279,904,Tech Training and Research,Internship hunting in tech,5-Minute Practical,Internship hunting in tech in 5 Minutes: What You Actually Need to Know
+280,41,Cybersecurity,VPNs,Field Breakdown,Where VPNs Actually Shows Up in Real Tech Jobs
+281,185,Software Engineering,Waterfall vs Agile,Field Breakdown,Where Waterfall vs Agile Actually Shows Up in Real Tech Jobs
+282,329,Web Development,Web accessibility (WCAG),Field Breakdown,Where Web accessibility (WCAG) Actually Shows Up in Real Tech Jobs
+283,473,IT Support and Infrastructure,Remote work IT support,Field Breakdown,Where Remote work IT support Actually Shows Up in Real Tech Jobs
+284,617,Data and Analytics,Business intelligence tools,Field Breakdown,Where Business intelligence tools Actually Shows Up in Real Tech Jobs
+285,761,AI and Automation,Natural language processing,Field Breakdown,Where Natural language processing Actually Shows Up in Real Tech Jobs
+286,905,Tech Training and Research,Internship hunting in tech,Field Breakdown,Where Internship hunting in tech Actually Shows Up in Real Tech Jobs
+287,42,Cybersecurity,VPNs,Research Digest,The Research Behind VPNs: What's Actually Changed
+288,186,Software Engineering,Waterfall vs Agile,Research Digest,The Research Behind Waterfall vs Agile: What's Actually Changed
+289,330,Web Development,Web accessibility (WCAG),Research Digest,The Research Behind Web accessibility (WCAG): What's Actually Changed
+290,474,IT Support and Infrastructure,Remote work IT support,Research Digest,The Research Behind Remote work IT support: What's Actually Changed
+291,618,Data and Analytics,Business intelligence tools,Research Digest,The Research Behind Business intelligence tools: What's Actually Changed
+292,762,AI and Automation,Natural language processing,Research Digest,The Research Behind Natural language processing: What's Actually Changed
+293,906,Tech Training and Research,Internship hunting in tech,Research Digest,The Research Behind Internship hunting in tech: What's Actually Changed
+294,43,Cybersecurity,Public key encryption,Then vs Now,Public key encryption: 2005 vs Today
+295,187,Software Engineering,Microservices architecture,Then vs Now,Microservices architecture: 2005 vs Today
+296,331,Web Development,Web performance optimization,Then vs Now,Web performance optimization: 2005 vs Today
+297,475,IT Support and Infrastructure,"OS evolution (Windows, Linux, macOS)",Then vs Now,"OS evolution (Windows, Linux, macOS): 2005 vs Today"
+298,619,Data and Analytics,Data cleaning,Then vs Now,Data cleaning: 2005 vs Today
+299,763,AI and Automation,Robotic process automation (RPA),Then vs Now,Robotic process automation (RPA): 2005 vs Today
+300,907,Tech Training and Research,Tech interviews and DSA prep,Then vs Now,Tech interviews and DSA prep: 2005 vs Today
+301,44,Cybersecurity,Public key encryption,Explain it Twice,What Is Public key encryption — Explained Twice (Beginner + Technical)
+302,188,Software Engineering,Microservices architecture,Explain it Twice,What Is Microservices architecture — Explained Twice (Beginner + Technical)
+303,332,Web Development,Web performance optimization,Explain it Twice,What Is Web performance optimization — Explained Twice (Beginner + Technical)
+304,476,IT Support and Infrastructure,"OS evolution (Windows, Linux, macOS)",Explain it Twice,"What Is OS evolution (Windows, Linux, macOS) — Explained Twice (Beginner + Technical)"
+305,620,Data and Analytics,Data cleaning,Explain it Twice,What Is Data cleaning — Explained Twice (Beginner + Technical)
+306,764,AI and Automation,Robotic process automation (RPA),Explain it Twice,What Is Robotic process automation (RPA) — Explained Twice (Beginner + Technical)
+307,908,Tech Training and Research,Tech interviews and DSA prep,Explain it Twice,What Is Tech interviews and DSA prep — Explained Twice (Beginner + Technical)
+308,45,Cybersecurity,Public key encryption,Myth vs Reality,Public key encryption: Myth vs Reality
+309,189,Software Engineering,Microservices architecture,Myth vs Reality,Microservices architecture: Myth vs Reality
+310,333,Web Development,Web performance optimization,Myth vs Reality,Web performance optimization: Myth vs Reality
+311,477,IT Support and Infrastructure,"OS evolution (Windows, Linux, macOS)",Myth vs Reality,"OS evolution (Windows, Linux, macOS): Myth vs Reality"
+312,621,Data and Analytics,Data cleaning,Myth vs Reality,Data cleaning: Myth vs Reality
+313,765,AI and Automation,Robotic process automation (RPA),Myth vs Reality,Robotic process automation (RPA): Myth vs Reality
+314,909,Tech Training and Research,Tech interviews and DSA prep,Myth vs Reality,Tech interviews and DSA prep: Myth vs Reality
+315,46,Cybersecurity,Public key encryption,5-Minute Practical,Public key encryption in 5 Minutes: What You Actually Need to Know
+316,190,Software Engineering,Microservices architecture,5-Minute Practical,Microservices architecture in 5 Minutes: What You Actually Need to Know
+317,334,Web Development,Web performance optimization,5-Minute Practical,Web performance optimization in 5 Minutes: What You Actually Need to Know
+318,478,IT Support and Infrastructure,"OS evolution (Windows, Linux, macOS)",5-Minute Practical,"OS evolution (Windows, Linux, macOS) in 5 Minutes: What You Actually Need to Know"
+319,622,Data and Analytics,Data cleaning,5-Minute Practical,Data cleaning in 5 Minutes: What You Actually Need to Know
+320,766,AI and Automation,Robotic process automation (RPA),5-Minute Practical,Robotic process automation (RPA) in 5 Minutes: What You Actually Need to Know
+321,910,Tech Training and Research,Tech interviews and DSA prep,5-Minute Practical,Tech interviews and DSA prep in 5 Minutes: What You Actually Need to Know
+322,47,Cybersecurity,Public key encryption,Field Breakdown,Where Public key encryption Actually Shows Up in Real Tech Jobs
+323,191,Software Engineering,Microservices architecture,Field Breakdown,Where Microservices architecture Actually Shows Up in Real Tech Jobs
+324,335,Web Development,Web performance optimization,Field Breakdown,Where Web performance optimization Actually Shows Up in Real Tech Jobs
+325,479,IT Support and Infrastructure,"OS evolution (Windows, Linux, macOS)",Field Breakdown,"Where OS evolution (Windows, Linux, macOS) Actually Shows Up in Real Tech Jobs"
+326,623,Data and Analytics,Data cleaning,Field Breakdown,Where Data cleaning Actually Shows Up in Real Tech Jobs
+327,767,AI and Automation,Robotic process automation (RPA),Field Breakdown,Where Robotic process automation (RPA) Actually Shows Up in Real Tech Jobs
+328,911,Tech Training and Research,Tech interviews and DSA prep,Field Breakdown,Where Tech interviews and DSA prep Actually Shows Up in Real Tech Jobs
+329,48,Cybersecurity,Public key encryption,Research Digest,The Research Behind Public key encryption: What's Actually Changed
+330,192,Software Engineering,Microservices architecture,Research Digest,The Research Behind Microservices architecture: What's Actually Changed
+331,336,Web Development,Web performance optimization,Research Digest,The Research Behind Web performance optimization: What's Actually Changed
+332,480,IT Support and Infrastructure,"OS evolution (Windows, Linux, macOS)",Research Digest,"The Research Behind OS evolution (Windows, Linux, macOS): What's Actually Changed"
+333,624,Data and Analytics,Data cleaning,Research Digest,The Research Behind Data cleaning: What's Actually Changed
+334,768,AI and Automation,Robotic process automation (RPA),Research Digest,The Research Behind Robotic process automation (RPA): What's Actually Changed
+335,912,Tech Training and Research,Tech interviews and DSA prep,Research Digest,The Research Behind Tech interviews and DSA prep: What's Actually Changed
+336,49,Cybersecurity,Password managers,Then vs Now,Password managers: 2005 vs Today
+337,193,Software Engineering,Monolithic architecture,Then vs Now,Monolithic architecture: 2005 vs Today
+338,337,Web Development,CMS evolution (WordPress era),Then vs Now,CMS evolution (WordPress era): 2005 vs Today
+339,481,IT Support and Infrastructure,Server administration,Then vs Now,Server administration: 2005 vs Today
+340,625,Data and Analytics,Statistics fundamentals for data work,Then vs Now,Statistics fundamentals for data work: 2005 vs Today
+341,769,AI and Automation,AI ethics and bias,Then vs Now,AI ethics and bias: 2005 vs Today
+342,913,Tech Training and Research,Freelancing in tech,Then vs Now,Freelancing in tech: 2005 vs Today
+343,50,Cybersecurity,Password managers,Explain it Twice,What Is Password managers — Explained Twice (Beginner + Technical)
+344,194,Software Engineering,Monolithic architecture,Explain it Twice,What Is Monolithic architecture — Explained Twice (Beginner + Technical)
+345,338,Web Development,CMS evolution (WordPress era),Explain it Twice,What Is CMS evolution (WordPress era) — Explained Twice (Beginner + Technical)
+346,482,IT Support and Infrastructure,Server administration,Explain it Twice,What Is Server administration — Explained Twice (Beginner + Technical)
+347,626,Data and Analytics,Statistics fundamentals for data work,Explain it Twice,What Is Statistics fundamentals for data work — Explained Twice (Beginner + Technical)
+348,770,AI and Automation,AI ethics and bias,Explain it Twice,What Is AI ethics and bias — Explained Twice (Beginner + Technical)
+349,914,Tech Training and Research,Freelancing in tech,Explain it Twice,What Is Freelancing in tech — Explained Twice (Beginner + Technical)
+350,51,Cybersecurity,Password managers,Myth vs Reality,Password managers: Myth vs Reality
+351,195,Software Engineering,Monolithic architecture,Myth vs Reality,Monolithic architecture: Myth vs Reality
+352,339,Web Development,CMS evolution (WordPress era),Myth vs Reality,CMS evolution (WordPress era): Myth vs Reality
+353,483,IT Support and Infrastructure,Server administration,Myth vs Reality,Server administration: Myth vs Reality
+354,627,Data and Analytics,Statistics fundamentals for data work,Myth vs Reality,Statistics fundamentals for data work: Myth vs Reality
+355,771,AI and Automation,AI ethics and bias,Myth vs Reality,AI ethics and bias: Myth vs Reality
+356,915,Tech Training and Research,Freelancing in tech,Myth vs Reality,Freelancing in tech: Myth vs Reality
+357,52,Cybersecurity,Password managers,5-Minute Practical,Password managers in 5 Minutes: What You Actually Need to Know
+358,196,Software Engineering,Monolithic architecture,5-Minute Practical,Monolithic architecture in 5 Minutes: What You Actually Need to Know
+359,340,Web Development,CMS evolution (WordPress era),5-Minute Practical,CMS evolution (WordPress era) in 5 Minutes: What You Actually Need to Know
+360,484,IT Support and Infrastructure,Server administration,5-Minute Practical,Server administration in 5 Minutes: What You Actually Need to Know
+361,628,Data and Analytics,Statistics fundamentals for data work,5-Minute Practical,Statistics fundamentals for data work in 5 Minutes: What You Actually Need to Know
+362,772,AI and Automation,AI ethics and bias,5-Minute Practical,AI ethics and bias in 5 Minutes: What You Actually Need to Know
+363,916,Tech Training and Research,Freelancing in tech,5-Minute Practical,Freelancing in tech in 5 Minutes: What You Actually Need to Know
+364,53,Cybersecurity,Password managers,Field Breakdown,Where Password managers Actually Shows Up in Real Tech Jobs
+365,197,Software Engineering,Monolithic architecture,Field Breakdown,Where Monolithic architecture Actually Shows Up in Real Tech Jobs
+366,341,Web Development,CMS evolution (WordPress era),Field Breakdown,Where CMS evolution (WordPress era) Actually Shows Up in Real Tech Jobs
+367,485,IT Support and Infrastructure,Server administration,Field Breakdown,Where Server administration Actually Shows Up in Real Tech Jobs
+368,629,Data and Analytics,Statistics fundamentals for data work,Field Breakdown,Where Statistics fundamentals for data work Actually Shows Up in Real Tech Jobs
+369,773,AI and Automation,AI ethics and bias,Field Breakdown,Where AI ethics and bias Actually Shows Up in Real Tech Jobs
+370,917,Tech Training and Research,Freelancing in tech,Field Breakdown,Where Freelancing in tech Actually Shows Up in Real Tech Jobs
+371,54,Cybersecurity,Password managers,Research Digest,The Research Behind Password managers: What's Actually Changed
+372,198,Software Engineering,Monolithic architecture,Research Digest,The Research Behind Monolithic architecture: What's Actually Changed
+373,342,Web Development,CMS evolution (WordPress era),Research Digest,The Research Behind CMS evolution (WordPress era): What's Actually Changed
+374,486,IT Support and Infrastructure,Server administration,Research Digest,The Research Behind Server administration: What's Actually Changed
+375,630,Data and Analytics,Statistics fundamentals for data work,Research Digest,The Research Behind Statistics fundamentals for data work: What's Actually Changed
+376,774,AI and Automation,AI ethics and bias,Research Digest,The Research Behind AI ethics and bias: What's Actually Changed
+377,918,Tech Training and Research,Freelancing in tech,Research Digest,The Research Behind Freelancing in tech: What's Actually Changed
+378,55,Cybersecurity,SQL injection,Then vs Now,SQL injection: 2005 vs Today
+379,199,Software Engineering,DevOps and CI/CD pipelines,Then vs Now,DevOps and CI/CD pipelines: 2005 vs Today
+380,343,Web Development,Headless CMS,Then vs Now,Headless CMS: 2005 vs Today
+381,487,IT Support and Infrastructure,Load balancing,Then vs Now,Load balancing: 2005 vs Today
+382,631,Data and Analytics,Predictive analytics,Then vs Now,Predictive analytics: 2005 vs Today
+383,775,AI and Automation,AI in cybersecurity,Then vs Now,AI in cybersecurity: 2005 vs Today
+384,919,Tech Training and Research,Remote tech jobs,Then vs Now,Remote tech jobs: 2005 vs Today
+385,56,Cybersecurity,SQL injection,Explain it Twice,What Is SQL injection — Explained Twice (Beginner + Technical)
+386,200,Software Engineering,DevOps and CI/CD pipelines,Explain it Twice,What Is DevOps and CI/CD pipelines — Explained Twice (Beginner + Technical)
+387,344,Web Development,Headless CMS,Explain it Twice,What Is Headless CMS — Explained Twice (Beginner + Technical)
+388,488,IT Support and Infrastructure,Load balancing,Explain it Twice,What Is Load balancing — Explained Twice (Beginner + Technical)
+389,632,Data and Analytics,Predictive analytics,Explain it Twice,What Is Predictive analytics — Explained Twice (Beginner + Technical)
+390,776,AI and Automation,AI in cybersecurity,Explain it Twice,What Is AI in cybersecurity — Explained Twice (Beginner + Technical)
+391,920,Tech Training and Research,Remote tech jobs,Explain it Twice,What Is Remote tech jobs — Explained Twice (Beginner + Technical)
+392,57,Cybersecurity,SQL injection,Myth vs Reality,SQL injection: Myth vs Reality
+393,201,Software Engineering,DevOps and CI/CD pipelines,Myth vs Reality,DevOps and CI/CD pipelines: Myth vs Reality
+394,345,Web Development,Headless CMS,Myth vs Reality,Headless CMS: Myth vs Reality
+395,489,IT Support and Infrastructure,Load balancing,Myth vs Reality,Load balancing: Myth vs Reality
+396,633,Data and Analytics,Predictive analytics,Myth vs Reality,Predictive analytics: Myth vs Reality
+397,777,AI and Automation,AI in cybersecurity,Myth vs Reality,AI in cybersecurity: Myth vs Reality
+398,921,Tech Training and Research,Remote tech jobs,Myth vs Reality,Remote tech jobs: Myth vs Reality
+399,58,Cybersecurity,SQL injection,5-Minute Practical,SQL injection in 5 Minutes: What You Actually Need to Know
+400,202,Software Engineering,DevOps and CI/CD pipelines,5-Minute Practical,DevOps and CI/CD pipelines in 5 Minutes: What You Actually Need to Know
+401,346,Web Development,Headless CMS,5-Minute Practical,Headless CMS in 5 Minutes: What You Actually Need to Know
+402,490,IT Support and Infrastructure,Load balancing,5-Minute Practical,Load balancing in 5 Minutes: What You Actually Need to Know
+403,634,Data and Analytics,Predictive analytics,5-Minute Practical,Predictive analytics in 5 Minutes: What You Actually Need to Know
+404,778,AI and Automation,AI in cybersecurity,5-Minute Practical,AI in cybersecurity in 5 Minutes: What You Actually Need to Know
+405,922,Tech Training and Research,Remote tech jobs,5-Minute Practical,Remote tech jobs in 5 Minutes: What You Actually Need to Know
+406,59,Cybersecurity,SQL injection,Field Breakdown,Where SQL injection Actually Shows Up in Real Tech Jobs
+407,203,Software Engineering,DevOps and CI/CD pipelines,Field Breakdown,Where DevOps and CI/CD pipelines Actually Shows Up in Real Tech Jobs
+408,347,Web Development,Headless CMS,Field Breakdown,Where Headless CMS Actually Shows Up in Real Tech Jobs
+409,491,IT Support and Infrastructure,Load balancing,Field Breakdown,Where Load balancing Actually Shows Up in Real Tech Jobs
+410,635,Data and Analytics,Predictive analytics,Field Breakdown,Where Predictive analytics Actually Shows Up in Real Tech Jobs
+411,779,AI and Automation,AI in cybersecurity,Field Breakdown,Where AI in cybersecurity Actually Shows Up in Real Tech Jobs
+412,923,Tech Training and Research,Remote tech jobs,Field Breakdown,Where Remote tech jobs Actually Shows Up in Real Tech Jobs
+413,60,Cybersecurity,SQL injection,Research Digest,The Research Behind SQL injection: What's Actually Changed
+414,204,Software Engineering,DevOps and CI/CD pipelines,Research Digest,The Research Behind DevOps and CI/CD pipelines: What's Actually Changed
+415,348,Web Development,Headless CMS,Research Digest,The Research Behind Headless CMS: What's Actually Changed
+416,492,IT Support and Infrastructure,Load balancing,Research Digest,The Research Behind Load balancing: What's Actually Changed
+417,636,Data and Analytics,Predictive analytics,Research Digest,The Research Behind Predictive analytics: What's Actually Changed
+418,780,AI and Automation,AI in cybersecurity,Research Digest,The Research Behind AI in cybersecurity: What's Actually Changed
+419,924,Tech Training and Research,Remote tech jobs,Research Digest,The Research Behind Remote tech jobs: What's Actually Changed
+420,61,Cybersecurity,Cross-site scripting (XSS),Then vs Now,Cross-site scripting (XSS): 2005 vs Today
+421,205,Software Engineering,Code review culture,Then vs Now,Code review culture: 2005 vs Today
+422,349,Web Development,Web hosting evolution (shared hosting to serverless),Then vs Now,Web hosting evolution (shared hosting to serverless): 2005 vs Today
+423,493,IT Support and Infrastructure,Backup and disaster recovery,Then vs Now,Backup and disaster recovery: 2005 vs Today
+424,637,Data and Analytics,A/B testing,Then vs Now,A/B testing: 2005 vs Today
+425,781,AI and Automation,Chatbot evolution,Then vs Now,Chatbot evolution: 2005 vs Today
+426,925,Tech Training and Research,Tech conferences and communities,Then vs Now,Tech conferences and communities: 2005 vs Today
+427,62,Cybersecurity,Cross-site scripting (XSS),Explain it Twice,What Is Cross-site scripting (XSS) — Explained Twice (Beginner + Technical)
+428,206,Software Engineering,Code review culture,Explain it Twice,What Is Code review culture — Explained Twice (Beginner + Technical)
+429,350,Web Development,Web hosting evolution (shared hosting to serverless),Explain it Twice,What Is Web hosting evolution (shared hosting to serverless) — Explained Twice (Beginner + Technical)
+430,494,IT Support and Infrastructure,Backup and disaster recovery,Explain it Twice,What Is Backup and disaster recovery — Explained Twice (Beginner + Technical)
+431,638,Data and Analytics,A/B testing,Explain it Twice,What Is A/B testing — Explained Twice (Beginner + Technical)
+432,782,AI and Automation,Chatbot evolution,Explain it Twice,What Is Chatbot evolution — Explained Twice (Beginner + Technical)
+433,926,Tech Training and Research,Tech conferences and communities,Explain it Twice,What Is Tech conferences and communities — Explained Twice (Beginner + Technical)
+434,63,Cybersecurity,Cross-site scripting (XSS),Myth vs Reality,Cross-site scripting (XSS): Myth vs Reality
+435,207,Software Engineering,Code review culture,Myth vs Reality,Code review culture: Myth vs Reality
+436,351,Web Development,Web hosting evolution (shared hosting to serverless),Myth vs Reality,Web hosting evolution (shared hosting to serverless): Myth vs Reality
+437,495,IT Support and Infrastructure,Backup and disaster recovery,Myth vs Reality,Backup and disaster recovery: Myth vs Reality
+438,639,Data and Analytics,A/B testing,Myth vs Reality,A/B testing: Myth vs Reality
+439,783,AI and Automation,Chatbot evolution,Myth vs Reality,Chatbot evolution: Myth vs Reality
+440,927,Tech Training and Research,Tech conferences and communities,Myth vs Reality,Tech conferences and communities: Myth vs Reality
+441,64,Cybersecurity,Cross-site scripting (XSS),5-Minute Practical,Cross-site scripting (XSS) in 5 Minutes: What You Actually Need to Know
+442,208,Software Engineering,Code review culture,5-Minute Practical,Code review culture in 5 Minutes: What You Actually Need to Know
+443,352,Web Development,Web hosting evolution (shared hosting to serverless),5-Minute Practical,Web hosting evolution (shared hosting to serverless) in 5 Minutes: What You Actually Need to Know
+444,496,IT Support and Infrastructure,Backup and disaster recovery,5-Minute Practical,Backup and disaster recovery in 5 Minutes: What You Actually Need to Know
+445,640,Data and Analytics,A/B testing,5-Minute Practical,A/B testing in 5 Minutes: What You Actually Need to Know
+446,784,AI and Automation,Chatbot evolution,5-Minute Practical,Chatbot evolution in 5 Minutes: What You Actually Need to Know
+447,928,Tech Training and Research,Tech conferences and communities,5-Minute Practical,Tech conferences and communities in 5 Minutes: What You Actually Need to Know
+448,65,Cybersecurity,Cross-site scripting (XSS),Field Breakdown,Where Cross-site scripting (XSS) Actually Shows Up in Real Tech Jobs
+449,209,Software Engineering,Code review culture,Field Breakdown,Where Code review culture Actually Shows Up in Real Tech Jobs
+450,353,Web Development,Web hosting evolution (shared hosting to serverless),Field Breakdown,Where Web hosting evolution (shared hosting to serverless) Actually Shows Up in Real Tech Jobs
+451,497,IT Support and Infrastructure,Backup and disaster recovery,Field Breakdown,Where Backup and disaster recovery Actually Shows Up in Real Tech Jobs
+452,641,Data and Analytics,A/B testing,Field Breakdown,Where A/B testing Actually Shows Up in Real Tech Jobs
+453,785,AI and Automation,Chatbot evolution,Field Breakdown,Where Chatbot evolution Actually Shows Up in Real Tech Jobs
+454,929,Tech Training and Research,Tech conferences and communities,Field Breakdown,Where Tech conferences and communities Actually Shows Up in Real Tech Jobs
+455,66,Cybersecurity,Cross-site scripting (XSS),Research Digest,The Research Behind Cross-site scripting (XSS): What's Actually Changed
+456,210,Software Engineering,Code review culture,Research Digest,The Research Behind Code review culture: What's Actually Changed
+457,354,Web Development,Web hosting evolution (shared hosting to serverless),Research Digest,The Research Behind Web hosting evolution (shared hosting to serverless): What's Actually Changed
+458,498,IT Support and Infrastructure,Backup and disaster recovery,Research Digest,The Research Behind Backup and disaster recovery: What's Actually Changed
+459,642,Data and Analytics,A/B testing,Research Digest,The Research Behind A/B testing: What's Actually Changed
+460,786,AI and Automation,Chatbot evolution,Research Digest,The Research Behind Chatbot evolution: What's Actually Changed
+461,930,Tech Training and Research,Tech conferences and communities,Research Digest,The Research Behind Tech conferences and communities: What's Actually Changed
+462,67,Cybersecurity,DDoS attacks,Then vs Now,DDoS attacks: 2005 vs Today
+463,211,Software Engineering,Technical debt,Then vs Now,Technical debt: 2005 vs Today
+464,355,Web Development,Domain names and DNS,Then vs Now,Domain names and DNS: 2005 vs Today
+465,499,IT Support and Infrastructure,Network security at the infrastructure level,Then vs Now,Network security at the infrastructure level: 2005 vs Today
+466,643,Data and Analytics,Data governance,Then vs Now,Data governance: 2005 vs Today
+467,787,AI and Automation,Recommendation systems,Then vs Now,Recommendation systems: 2005 vs Today
+468,931,Tech Training and Research,Staying current with tech news,Then vs Now,Staying current with tech news: 2005 vs Today
+469,68,Cybersecurity,DDoS attacks,Explain it Twice,What Is DDoS attacks — Explained Twice (Beginner + Technical)
+470,212,Software Engineering,Technical debt,Explain it Twice,What Is Technical debt — Explained Twice (Beginner + Technical)
+471,356,Web Development,Domain names and DNS,Explain it Twice,What Is Domain names and DNS — Explained Twice (Beginner + Technical)
+472,500,IT Support and Infrastructure,Network security at the infrastructure level,Explain it Twice,What Is Network security at the infrastructure level — Explained Twice (Beginner + Technical)
+473,644,Data and Analytics,Data governance,Explain it Twice,What Is Data governance — Explained Twice (Beginner + Technical)
+474,788,AI and Automation,Recommendation systems,Explain it Twice,What Is Recommendation systems — Explained Twice (Beginner + Technical)
+475,932,Tech Training and Research,Staying current with tech news,Explain it Twice,What Is Staying current with tech news — Explained Twice (Beginner + Technical)
+476,69,Cybersecurity,DDoS attacks,Myth vs Reality,DDoS attacks: Myth vs Reality
+477,213,Software Engineering,Technical debt,Myth vs Reality,Technical debt: Myth vs Reality
+478,357,Web Development,Domain names and DNS,Myth vs Reality,Domain names and DNS: Myth vs Reality
+479,501,IT Support and Infrastructure,Network security at the infrastructure level,Myth vs Reality,Network security at the infrastructure level: Myth vs Reality
+480,645,Data and Analytics,Data governance,Myth vs Reality,Data governance: Myth vs Reality
+481,789,AI and Automation,Recommendation systems,Myth vs Reality,Recommendation systems: Myth vs Reality
+482,933,Tech Training and Research,Staying current with tech news,Myth vs Reality,Staying current with tech news: Myth vs Reality
+483,70,Cybersecurity,DDoS attacks,5-Minute Practical,DDoS attacks in 5 Minutes: What You Actually Need to Know
+484,214,Software Engineering,Technical debt,5-Minute Practical,Technical debt in 5 Minutes: What You Actually Need to Know
+485,358,Web Development,Domain names and DNS,5-Minute Practical,Domain names and DNS in 5 Minutes: What You Actually Need to Know
+486,502,IT Support and Infrastructure,Network security at the infrastructure level,5-Minute Practical,Network security at the infrastructure level in 5 Minutes: What You Actually Need to Know
+487,646,Data and Analytics,Data governance,5-Minute Practical,Data governance in 5 Minutes: What You Actually Need to Know
+488,790,AI and Automation,Recommendation systems,5-Minute Practical,Recommendation systems in 5 Minutes: What You Actually Need to Know
+489,934,Tech Training and Research,Staying current with tech news,5-Minute Practical,Staying current with tech news in 5 Minutes: What You Actually Need to Know
+490,71,Cybersecurity,DDoS attacks,Field Breakdown,Where DDoS attacks Actually Shows Up in Real Tech Jobs
+491,215,Software Engineering,Technical debt,Field Breakdown,Where Technical debt Actually Shows Up in Real Tech Jobs
+492,359,Web Development,Domain names and DNS,Field Breakdown,Where Domain names and DNS Actually Shows Up in Real Tech Jobs
+493,503,IT Support and Infrastructure,Network security at the infrastructure level,Field Breakdown,Where Network security at the infrastructure level Actually Shows Up in Real Tech Jobs
+494,647,Data and Analytics,Data governance,Field Breakdown,Where Data governance Actually Shows Up in Real Tech Jobs
+495,791,AI and Automation,Recommendation systems,Field Breakdown,Where Recommendation systems Actually Shows Up in Real Tech Jobs
+496,935,Tech Training and Research,Staying current with tech news,Field Breakdown,Where Staying current with tech news Actually Shows Up in Real Tech Jobs
+497,72,Cybersecurity,DDoS attacks,Research Digest,The Research Behind DDoS attacks: What's Actually Changed
+498,216,Software Engineering,Technical debt,Research Digest,The Research Behind Technical debt: What's Actually Changed
+499,360,Web Development,Domain names and DNS,Research Digest,The Research Behind Domain names and DNS: What's Actually Changed
+500,504,IT Support and Infrastructure,Network security at the infrastructure level,Research Digest,The Research Behind Network security at the infrastructure level: What's Actually Changed
+501,648,Data and Analytics,Data governance,Research Digest,The Research Behind Data governance: What's Actually Changed
+502,792,AI and Automation,Recommendation systems,Research Digest,The Research Behind Recommendation systems: What's Actually Changed
+503,936,Tech Training and Research,Staying current with tech news,Research Digest,The Research Behind Staying current with tech news: What's Actually Changed
+504,73,Cybersecurity,Social engineering,Then vs Now,Social engineering: 2005 vs Today
+505,217,Software Engineering,Refactoring legacy code,Then vs Now,Refactoring legacy code: 2005 vs Today
+506,361,Web Development,HTTPS and SSL adoption,Then vs Now,HTTPS and SSL adoption: 2005 vs Today
+507,505,IT Support and Infrastructure,IT service management (ITIL),Then vs Now,IT service management (ITIL): 2005 vs Today
+508,649,Data and Analytics,Data privacy regulations (GDPR/NDPR),Then vs Now,Data privacy regulations (GDPR/NDPR): 2005 vs Today
+509,793,AI and Automation,AI agents and autonomous systems,Then vs Now,AI agents and autonomous systems: 2005 vs Today
+510,937,Tech Training and Research,Reading documentation well,Then vs Now,Reading documentation well: 2005 vs Today
+511,74,Cybersecurity,Social engineering,Explain it Twice,What Is Social engineering — Explained Twice (Beginner + Technical)
+512,218,Software Engineering,Refactoring legacy code,Explain it Twice,What Is Refactoring legacy code — Explained Twice (Beginner + Technical)
+513,362,Web Development,HTTPS and SSL adoption,Explain it Twice,What Is HTTPS and SSL adoption — Explained Twice (Beginner + Technical)
+514,506,IT Support and Infrastructure,IT service management (ITIL),Explain it Twice,What Is IT service management (ITIL) — Explained Twice (Beginner + Technical)
+515,650,Data and Analytics,Data privacy regulations (GDPR/NDPR),Explain it Twice,What Is Data privacy regulations (GDPR/NDPR) — Explained Twice (Beginner + Technical)
+516,794,AI and Automation,AI agents and autonomous systems,Explain it Twice,What Is AI agents and autonomous systems — Explained Twice (Beginner + Technical)
+517,938,Tech Training and Research,Reading documentation well,Explain it Twice,What Is Reading documentation well — Explained Twice (Beginner + Technical)
+518,75,Cybersecurity,Social engineering,Myth vs Reality,Social engineering: Myth vs Reality
+519,219,Software Engineering,Refactoring legacy code,Myth vs Reality,Refactoring legacy code: Myth vs Reality
+520,363,Web Development,HTTPS and SSL adoption,Myth vs Reality,HTTPS and SSL adoption: Myth vs Reality
+521,507,IT Support and Infrastructure,IT service management (ITIL),Myth vs Reality,IT service management (ITIL): Myth vs Reality
+522,651,Data and Analytics,Data privacy regulations (GDPR/NDPR),Myth vs Reality,Data privacy regulations (GDPR/NDPR): Myth vs Reality
+523,795,AI and Automation,AI agents and autonomous systems,Myth vs Reality,AI agents and autonomous systems: Myth vs Reality
+524,939,Tech Training and Research,Reading documentation well,Myth vs Reality,Reading documentation well: Myth vs Reality
+525,76,Cybersecurity,Social engineering,5-Minute Practical,Social engineering in 5 Minutes: What You Actually Need to Know
+526,220,Software Engineering,Refactoring legacy code,5-Minute Practical,Refactoring legacy code in 5 Minutes: What You Actually Need to Know
+527,364,Web Development,HTTPS and SSL adoption,5-Minute Practical,HTTPS and SSL adoption in 5 Minutes: What You Actually Need to Know
+528,508,IT Support and Infrastructure,IT service management (ITIL),5-Minute Practical,IT service management (ITIL) in 5 Minutes: What You Actually Need to Know
+529,652,Data and Analytics,Data privacy regulations (GDPR/NDPR),5-Minute Practical,Data privacy regulations (GDPR/NDPR) in 5 Minutes: What You Actually Need to Know
+530,796,AI and Automation,AI agents and autonomous systems,5-Minute Practical,AI agents and autonomous systems in 5 Minutes: What You Actually Need to Know
+531,940,Tech Training and Research,Reading documentation well,5-Minute Practical,Reading documentation well in 5 Minutes: What You Actually Need to Know
+532,77,Cybersecurity,Social engineering,Field Breakdown,Where Social engineering Actually Shows Up in Real Tech Jobs
+533,221,Software Engineering,Refactoring legacy code,Field Breakdown,Where Refactoring legacy code Actually Shows Up in Real Tech Jobs
+534,365,Web Development,HTTPS and SSL adoption,Field Breakdown,Where HTTPS and SSL adoption Actually Shows Up in Real Tech Jobs
+535,509,IT Support and Infrastructure,IT service management (ITIL),Field Breakdown,Where IT service management (ITIL) Actually Shows Up in Real Tech Jobs
+536,653,Data and Analytics,Data privacy regulations (GDPR/NDPR),Field Breakdown,Where Data privacy regulations (GDPR/NDPR) Actually Shows Up in Real Tech Jobs
+537,797,AI and Automation,AI agents and autonomous systems,Field Breakdown,Where AI agents and autonomous systems Actually Shows Up in Real Tech Jobs
+538,941,Tech Training and Research,Reading documentation well,Field Breakdown,Where Reading documentation well Actually Shows Up in Real Tech Jobs
+539,78,Cybersecurity,Social engineering,Research Digest,The Research Behind Social engineering: What's Actually Changed
+540,222,Software Engineering,Refactoring legacy code,Research Digest,The Research Behind Refactoring legacy code: What's Actually Changed
+541,366,Web Development,HTTPS and SSL adoption,Research Digest,The Research Behind HTTPS and SSL adoption: What's Actually Changed
+542,510,IT Support and Infrastructure,IT service management (ITIL),Research Digest,The Research Behind IT service management (ITIL): What's Actually Changed
+543,654,Data and Analytics,Data privacy regulations (GDPR/NDPR),Research Digest,The Research Behind Data privacy regulations (GDPR/NDPR): What's Actually Changed
+544,798,AI and Automation,AI agents and autonomous systems,Research Digest,The Research Behind AI agents and autonomous systems: What's Actually Changed
+545,942,Tech Training and Research,Reading documentation well,Research Digest,The Research Behind Reading documentation well: What's Actually Changed
+546,79,Cybersecurity,Penetration testing,Then vs Now,Penetration testing: 2005 vs Today
+547,223,Software Engineering,REST vs GraphQL API design,Then vs Now,REST vs GraphQL API design: 2005 vs Today
+548,367,Web Development,Browser wars and rendering engines,Then vs Now,Browser wars and rendering engines: 2005 vs Today
+549,511,IT Support and Infrastructure,Hardware troubleshooting,Then vs Now,Hardware troubleshooting: 2005 vs Today
+550,655,Data and Analytics,Real-time and streaming data,Then vs Now,Real-time and streaming data: 2005 vs Today
+551,799,AI and Automation,Reinforcement learning,Then vs Now,Reinforcement learning: 2005 vs Today
+552,943,Tech Training and Research,Debugging as a skill,Then vs Now,Debugging as a skill: 2005 vs Today
+553,80,Cybersecurity,Penetration testing,Explain it Twice,What Is Penetration testing — Explained Twice (Beginner + Technical)
+554,224,Software Engineering,REST vs GraphQL API design,Explain it Twice,What Is REST vs GraphQL API design — Explained Twice (Beginner + Technical)
+555,368,Web Development,Browser wars and rendering engines,Explain it Twice,What Is Browser wars and rendering engines — Explained Twice (Beginner + Technical)
+556,512,IT Support and Infrastructure,Hardware troubleshooting,Explain it Twice,What Is Hardware troubleshooting — Explained Twice (Beginner + Technical)
+557,656,Data and Analytics,Real-time and streaming data,Explain it Twice,What Is Real-time and streaming data — Explained Twice (Beginner + Technical)
+558,800,AI and Automation,Reinforcement learning,Explain it Twice,What Is Reinforcement learning — Explained Twice (Beginner + Technical)
+559,944,Tech Training and Research,Debugging as a skill,Explain it Twice,What Is Debugging as a skill — Explained Twice (Beginner + Technical)
+560,81,Cybersecurity,Penetration testing,Myth vs Reality,Penetration testing: Myth vs Reality
+561,225,Software Engineering,REST vs GraphQL API design,Myth vs Reality,REST vs GraphQL API design: Myth vs Reality
+562,369,Web Development,Browser wars and rendering engines,Myth vs Reality,Browser wars and rendering engines: Myth vs Reality
+563,513,IT Support and Infrastructure,Hardware troubleshooting,Myth vs Reality,Hardware troubleshooting: Myth vs Reality
+564,657,Data and Analytics,Real-time and streaming data,Myth vs Reality,Real-time and streaming data: Myth vs Reality
+565,801,AI and Automation,Reinforcement learning,Myth vs Reality,Reinforcement learning: Myth vs Reality
+566,945,Tech Training and Research,Debugging as a skill,Myth vs Reality,Debugging as a skill: Myth vs Reality
+567,82,Cybersecurity,Penetration testing,5-Minute Practical,Penetration testing in 5 Minutes: What You Actually Need to Know
+568,226,Software Engineering,REST vs GraphQL API design,5-Minute Practical,REST vs GraphQL API design in 5 Minutes: What You Actually Need to Know
+569,370,Web Development,Browser wars and rendering engines,5-Minute Practical,Browser wars and rendering engines in 5 Minutes: What You Actually Need to Know
+570,514,IT Support and Infrastructure,Hardware troubleshooting,5-Minute Practical,Hardware troubleshooting in 5 Minutes: What You Actually Need to Know
+571,658,Data and Analytics,Real-time and streaming data,5-Minute Practical,Real-time and streaming data in 5 Minutes: What You Actually Need to Know
+572,802,AI and Automation,Reinforcement learning,5-Minute Practical,Reinforcement learning in 5 Minutes: What You Actually Need to Know
+573,946,Tech Training and Research,Debugging as a skill,5-Minute Practical,Debugging as a skill in 5 Minutes: What You Actually Need to Know
+574,83,Cybersecurity,Penetration testing,Field Breakdown,Where Penetration testing Actually Shows Up in Real Tech Jobs
+575,227,Software Engineering,REST vs GraphQL API design,Field Breakdown,Where REST vs GraphQL API design Actually Shows Up in Real Tech Jobs
+576,371,Web Development,Browser wars and rendering engines,Field Breakdown,Where Browser wars and rendering engines Actually Shows Up in Real Tech Jobs
+577,515,IT Support and Infrastructure,Hardware troubleshooting,Field Breakdown,Where Hardware troubleshooting Actually Shows Up in Real Tech Jobs
+578,659,Data and Analytics,Real-time and streaming data,Field Breakdown,Where Real-time and streaming data Actually Shows Up in Real Tech Jobs
+579,803,AI and Automation,Reinforcement learning,Field Breakdown,Where Reinforcement learning Actually Shows Up in Real Tech Jobs
+580,947,Tech Training and Research,Debugging as a skill,Field Breakdown,Where Debugging as a skill Actually Shows Up in Real Tech Jobs
+581,84,Cybersecurity,Penetration testing,Research Digest,The Research Behind Penetration testing: What's Actually Changed
+582,228,Software Engineering,REST vs GraphQL API design,Research Digest,The Research Behind REST vs GraphQL API design: What's Actually Changed
+583,372,Web Development,Browser wars and rendering engines,Research Digest,The Research Behind Browser wars and rendering engines: What's Actually Changed
+584,516,IT Support and Infrastructure,Hardware troubleshooting,Research Digest,The Research Behind Hardware troubleshooting: What's Actually Changed
+585,660,Data and Analytics,Real-time and streaming data,Research Digest,The Research Behind Real-time and streaming data: What's Actually Changed
+586,804,AI and Automation,Reinforcement learning,Research Digest,The Research Behind Reinforcement learning: What's Actually Changed
+587,948,Tech Training and Research,Debugging as a skill,Research Digest,The Research Behind Debugging as a skill: What's Actually Changed
+588,85,Cybersecurity,Bug bounty programs,Then vs Now,Bug bounty programs: 2005 vs Today
+589,229,Software Engineering,Open source vs proprietary licensing,Then vs Now,Open source vs proprietary licensing: 2005 vs Today
+590,373,Web Development,Web APIs and fetch/AJAX,Then vs Now,Web APIs and fetch/AJAX: 2005 vs Today
+591,517,IT Support and Infrastructure,Wi-Fi and wireless networking,Then vs Now,Wi-Fi and wireless networking: 2005 vs Today
+592,661,Data and Analytics,Data lakes,Then vs Now,Data lakes: 2005 vs Today
+593,805,AI and Automation,"AI hardware (GPUs, TPUs)",Then vs Now,"AI hardware (GPUs, TPUs): 2005 vs Today"
+594,949,Tech Training and Research,Building side projects,Then vs Now,Building side projects: 2005 vs Today
+595,86,Cybersecurity,Bug bounty programs,Explain it Twice,What Is Bug bounty programs — Explained Twice (Beginner + Technical)
+596,230,Software Engineering,Open source vs proprietary licensing,Explain it Twice,What Is Open source vs proprietary licensing — Explained Twice (Beginner + Technical)
+597,374,Web Development,Web APIs and fetch/AJAX,Explain it Twice,What Is Web APIs and fetch/AJAX — Explained Twice (Beginner + Technical)
+598,518,IT Support and Infrastructure,Wi-Fi and wireless networking,Explain it Twice,What Is Wi-Fi and wireless networking — Explained Twice (Beginner + Technical)
+599,662,Data and Analytics,Data lakes,Explain it Twice,What Is Data lakes — Explained Twice (Beginner + Technical)
+600,806,AI and Automation,"AI hardware (GPUs, TPUs)",Explain it Twice,"What Is AI hardware (GPUs, TPUs) — Explained Twice (Beginner + Technical)"
+601,950,Tech Training and Research,Building side projects,Explain it Twice,What Is Building side projects — Explained Twice (Beginner + Technical)
+602,87,Cybersecurity,Bug bounty programs,Myth vs Reality,Bug bounty programs: Myth vs Reality
+603,231,Software Engineering,Open source vs proprietary licensing,Myth vs Reality,Open source vs proprietary licensing: Myth vs Reality
+604,375,Web Development,Web APIs and fetch/AJAX,Myth vs Reality,Web APIs and fetch/AJAX: Myth vs Reality
+605,519,IT Support and Infrastructure,Wi-Fi and wireless networking,Myth vs Reality,Wi-Fi and wireless networking: Myth vs Reality
+606,663,Data and Analytics,Data lakes,Myth vs Reality,Data lakes: Myth vs Reality
+607,807,AI and Automation,"AI hardware (GPUs, TPUs)",Myth vs Reality,"AI hardware (GPUs, TPUs): Myth vs Reality"
+608,951,Tech Training and Research,Building side projects,Myth vs Reality,Building side projects: Myth vs Reality
+609,88,Cybersecurity,Bug bounty programs,5-Minute Practical,Bug bounty programs in 5 Minutes: What You Actually Need to Know
+610,232,Software Engineering,Open source vs proprietary licensing,5-Minute Practical,Open source vs proprietary licensing in 5 Minutes: What You Actually Need to Know
+611,376,Web Development,Web APIs and fetch/AJAX,5-Minute Practical,Web APIs and fetch/AJAX in 5 Minutes: What You Actually Need to Know
+612,520,IT Support and Infrastructure,Wi-Fi and wireless networking,5-Minute Practical,Wi-Fi and wireless networking in 5 Minutes: What You Actually Need to Know
+613,664,Data and Analytics,Data lakes,5-Minute Practical,Data lakes in 5 Minutes: What You Actually Need to Know
+614,808,AI and Automation,"AI hardware (GPUs, TPUs)",5-Minute Practical,"AI hardware (GPUs, TPUs) in 5 Minutes: What You Actually Need to Know"
+615,952,Tech Training and Research,Building side projects,5-Minute Practical,Building side projects in 5 Minutes: What You Actually Need to Know
+616,89,Cybersecurity,Bug bounty programs,Field Breakdown,Where Bug bounty programs Actually Shows Up in Real Tech Jobs
+617,233,Software Engineering,Open source vs proprietary licensing,Field Breakdown,Where Open source vs proprietary licensing Actually Shows Up in Real Tech Jobs
+618,377,Web Development,Web APIs and fetch/AJAX,Field Breakdown,Where Web APIs and fetch/AJAX Actually Shows Up in Real Tech Jobs
+619,521,IT Support and Infrastructure,Wi-Fi and wireless networking,Field Breakdown,Where Wi-Fi and wireless networking Actually Shows Up in Real Tech Jobs
+620,665,Data and Analytics,Data lakes,Field Breakdown,Where Data lakes Actually Shows Up in Real Tech Jobs
+621,809,AI and Automation,"AI hardware (GPUs, TPUs)",Field Breakdown,"Where AI hardware (GPUs, TPUs) Actually Shows Up in Real Tech Jobs"
+622,953,Tech Training and Research,Building side projects,Field Breakdown,Where Building side projects Actually Shows Up in Real Tech Jobs
+623,90,Cybersecurity,Bug bounty programs,Research Digest,The Research Behind Bug bounty programs: What's Actually Changed
+624,234,Software Engineering,Open source vs proprietary licensing,Research Digest,The Research Behind Open source vs proprietary licensing: What's Actually Changed
+625,378,Web Development,Web APIs and fetch/AJAX,Research Digest,The Research Behind Web APIs and fetch/AJAX: What's Actually Changed
+626,522,IT Support and Infrastructure,Wi-Fi and wireless networking,Research Digest,The Research Behind Wi-Fi and wireless networking: What's Actually Changed
+627,666,Data and Analytics,Data lakes,Research Digest,The Research Behind Data lakes: What's Actually Changed
+628,810,AI and Automation,"AI hardware (GPUs, TPUs)",Research Digest,"The Research Behind AI hardware (GPUs, TPUs): What's Actually Changed"
+629,954,Tech Training and Research,Building side projects,Research Digest,The Research Behind Building side projects: What's Actually Changed
+630,91,Cybersecurity,Zero trust architecture,Then vs Now,Zero trust architecture: 2005 vs Today
+631,235,Software Engineering,Evolution of programming languages,Then vs Now,Evolution of programming languages: 2005 vs Today
+632,379,Web Development,CSS frameworks (Bootstrap to Tailwind),Then vs Now,CSS frameworks (Bootstrap to Tailwind): 2005 vs Today
+633,523,IT Support and Infrastructure,Containers vs virtual machines,Then vs Now,Containers vs virtual machines: 2005 vs Today
+634,667,Data and Analytics,Excel vs modern BI tools,Then vs Now,Excel vs modern BI tools: 2005 vs Today
+635,811,AI and Automation,No-code AI tools,Then vs Now,No-code AI tools: 2005 vs Today
+636,955,Tech Training and Research,Contributing to academic research,Then vs Now,Contributing to academic research: 2005 vs Today
+637,92,Cybersecurity,Zero trust architecture,Explain it Twice,What Is Zero trust architecture — Explained Twice (Beginner + Technical)
+638,236,Software Engineering,Evolution of programming languages,Explain it Twice,What Is Evolution of programming languages — Explained Twice (Beginner + Technical)
+639,380,Web Development,CSS frameworks (Bootstrap to Tailwind),Explain it Twice,What Is CSS frameworks (Bootstrap to Tailwind) — Explained Twice (Beginner + Technical)
+640,524,IT Support and Infrastructure,Containers vs virtual machines,Explain it Twice,What Is Containers vs virtual machines — Explained Twice (Beginner + Technical)
+641,668,Data and Analytics,Excel vs modern BI tools,Explain it Twice,What Is Excel vs modern BI tools — Explained Twice (Beginner + Technical)
+642,812,AI and Automation,No-code AI tools,Explain it Twice,What Is No-code AI tools — Explained Twice (Beginner + Technical)
+643,956,Tech Training and Research,Contributing to academic research,Explain it Twice,What Is Contributing to academic research — Explained Twice (Beginner + Technical)
+644,93,Cybersecurity,Zero trust architecture,Myth vs Reality,Zero trust architecture: Myth vs Reality
+645,237,Software Engineering,Evolution of programming languages,Myth vs Reality,Evolution of programming languages: Myth vs Reality
+646,381,Web Development,CSS frameworks (Bootstrap to Tailwind),Myth vs Reality,CSS frameworks (Bootstrap to Tailwind): Myth vs Reality
+647,525,IT Support and Infrastructure,Containers vs virtual machines,Myth vs Reality,Containers vs virtual machines: Myth vs Reality
+648,669,Data and Analytics,Excel vs modern BI tools,Myth vs Reality,Excel vs modern BI tools: Myth vs Reality
+649,813,AI and Automation,No-code AI tools,Myth vs Reality,No-code AI tools: Myth vs Reality
+650,957,Tech Training and Research,Contributing to academic research,Myth vs Reality,Contributing to academic research: Myth vs Reality
+651,94,Cybersecurity,Zero trust architecture,5-Minute Practical,Zero trust architecture in 5 Minutes: What You Actually Need to Know
+652,238,Software Engineering,Evolution of programming languages,5-Minute Practical,Evolution of programming languages in 5 Minutes: What You Actually Need to Know
+653,382,Web Development,CSS frameworks (Bootstrap to Tailwind),5-Minute Practical,CSS frameworks (Bootstrap to Tailwind) in 5 Minutes: What You Actually Need to Know
+654,526,IT Support and Infrastructure,Containers vs virtual machines,5-Minute Practical,Containers vs virtual machines in 5 Minutes: What You Actually Need to Know
+655,670,Data and Analytics,Excel vs modern BI tools,5-Minute Practical,Excel vs modern BI tools in 5 Minutes: What You Actually Need to Know
+656,814,AI and Automation,No-code AI tools,5-Minute Practical,No-code AI tools in 5 Minutes: What You Actually Need to Know
+657,958,Tech Training and Research,Contributing to academic research,5-Minute Practical,Contributing to academic research in 5 Minutes: What You Actually Need to Know
+658,95,Cybersecurity,Zero trust architecture,Field Breakdown,Where Zero trust architecture Actually Shows Up in Real Tech Jobs
+659,239,Software Engineering,Evolution of programming languages,Field Breakdown,Where Evolution of programming languages Actually Shows Up in Real Tech Jobs
+660,383,Web Development,CSS frameworks (Bootstrap to Tailwind),Field Breakdown,Where CSS frameworks (Bootstrap to Tailwind) Actually Shows Up in Real Tech Jobs
+661,527,IT Support and Infrastructure,Containers vs virtual machines,Field Breakdown,Where Containers vs virtual machines Actually Shows Up in Real Tech Jobs
+662,671,Data and Analytics,Excel vs modern BI tools,Field Breakdown,Where Excel vs modern BI tools Actually Shows Up in Real Tech Jobs
+663,815,AI and Automation,No-code AI tools,Field Breakdown,Where No-code AI tools Actually Shows Up in Real Tech Jobs
+664,959,Tech Training and Research,Contributing to academic research,Field Breakdown,Where Contributing to academic research Actually Shows Up in Real Tech Jobs
+665,96,Cybersecurity,Zero trust architecture,Research Digest,The Research Behind Zero trust architecture: What's Actually Changed
+666,240,Software Engineering,Evolution of programming languages,Research Digest,The Research Behind Evolution of programming languages: What's Actually Changed
+667,384,Web Development,CSS frameworks (Bootstrap to Tailwind),Research Digest,The Research Behind CSS frameworks (Bootstrap to Tailwind): What's Actually Changed
+668,528,IT Support and Infrastructure,Containers vs virtual machines,Research Digest,The Research Behind Containers vs virtual machines: What's Actually Changed
+669,672,Data and Analytics,Excel vs modern BI tools,Research Digest,The Research Behind Excel vs modern BI tools: What's Actually Changed
+670,816,AI and Automation,No-code AI tools,Research Digest,The Research Behind No-code AI tools: What's Actually Changed
+671,960,Tech Training and Research,Contributing to academic research,Research Digest,The Research Behind Contributing to academic research: What's Actually Changed
+672,97,Cybersecurity,Cloud security misconfigurations,Then vs Now,Cloud security misconfigurations: 2005 vs Today
+673,241,Software Engineering,Low-code/no-code platforms,Then vs Now,Low-code/no-code platforms: 2005 vs Today
+674,385,Web Development,E-commerce platforms,Then vs Now,E-commerce platforms: 2005 vs Today
+675,529,IT Support and Infrastructure,Kubernetes and container orchestration,Then vs Now,Kubernetes and container orchestration: 2005 vs Today
+676,673,Data and Analytics,Data engineering as a career,Then vs Now,Data engineering as a career: 2005 vs Today
+677,817,AI and Automation,AI regulation and policy,Then vs Now,AI regulation and policy: 2005 vs Today
+678,961,Tech Training and Research,Finding a tech mentor,Then vs Now,Finding a tech mentor: 2005 vs Today
+679,98,Cybersecurity,Cloud security misconfigurations,Explain it Twice,What Is Cloud security misconfigurations — Explained Twice (Beginner + Technical)
+680,242,Software Engineering,Low-code/no-code platforms,Explain it Twice,What Is Low-code/no-code platforms — Explained Twice (Beginner + Technical)
+681,386,Web Development,E-commerce platforms,Explain it Twice,What Is E-commerce platforms — Explained Twice (Beginner + Technical)
+682,530,IT Support and Infrastructure,Kubernetes and container orchestration,Explain it Twice,What Is Kubernetes and container orchestration — Explained Twice (Beginner + Technical)
+683,674,Data and Analytics,Data engineering as a career,Explain it Twice,What Is Data engineering as a career — Explained Twice (Beginner + Technical)
+684,818,AI and Automation,AI regulation and policy,Explain it Twice,What Is AI regulation and policy — Explained Twice (Beginner + Technical)
+685,962,Tech Training and Research,Finding a tech mentor,Explain it Twice,What Is Finding a tech mentor — Explained Twice (Beginner + Technical)
+686,99,Cybersecurity,Cloud security misconfigurations,Myth vs Reality,Cloud security misconfigurations: Myth vs Reality
+687,243,Software Engineering,Low-code/no-code platforms,Myth vs Reality,Low-code/no-code platforms: Myth vs Reality
+688,387,Web Development,E-commerce platforms,Myth vs Reality,E-commerce platforms: Myth vs Reality
+689,531,IT Support and Infrastructure,Kubernetes and container orchestration,Myth vs Reality,Kubernetes and container orchestration: Myth vs Reality
+690,675,Data and Analytics,Data engineering as a career,Myth vs Reality,Data engineering as a career: Myth vs Reality
+691,819,AI and Automation,AI regulation and policy,Myth vs Reality,AI regulation and policy: Myth vs Reality
+692,963,Tech Training and Research,Finding a tech mentor,Myth vs Reality,Finding a tech mentor: Myth vs Reality
+693,100,Cybersecurity,Cloud security misconfigurations,5-Minute Practical,Cloud security misconfigurations in 5 Minutes: What You Actually Need to Know
+694,244,Software Engineering,Low-code/no-code platforms,5-Minute Practical,Low-code/no-code platforms in 5 Minutes: What You Actually Need to Know
+695,388,Web Development,E-commerce platforms,5-Minute Practical,E-commerce platforms in 5 Minutes: What You Actually Need to Know
+696,532,IT Support and Infrastructure,Kubernetes and container orchestration,5-Minute Practical,Kubernetes and container orchestration in 5 Minutes: What You Actually Need to Know
+697,676,Data and Analytics,Data engineering as a career,5-Minute Practical,Data engineering as a career in 5 Minutes: What You Actually Need to Know
+698,820,AI and Automation,AI regulation and policy,5-Minute Practical,AI regulation and policy in 5 Minutes: What You Actually Need to Know
+699,964,Tech Training and Research,Finding a tech mentor,5-Minute Practical,Finding a tech mentor in 5 Minutes: What You Actually Need to Know
+700,101,Cybersecurity,Cloud security misconfigurations,Field Breakdown,Where Cloud security misconfigurations Actually Shows Up in Real Tech Jobs
+701,245,Software Engineering,Low-code/no-code platforms,Field Breakdown,Where Low-code/no-code platforms Actually Shows Up in Real Tech Jobs
+702,389,Web Development,E-commerce platforms,Field Breakdown,Where E-commerce platforms Actually Shows Up in Real Tech Jobs
+703,533,IT Support and Infrastructure,Kubernetes and container orchestration,Field Breakdown,Where Kubernetes and container orchestration Actually Shows Up in Real Tech Jobs
+704,677,Data and Analytics,Data engineering as a career,Field Breakdown,Where Data engineering as a career Actually Shows Up in Real Tech Jobs
+705,821,AI and Automation,AI regulation and policy,Field Breakdown,Where AI regulation and policy Actually Shows Up in Real Tech Jobs
+706,965,Tech Training and Research,Finding a tech mentor,Field Breakdown,Where Finding a tech mentor Actually Shows Up in Real Tech Jobs
+707,102,Cybersecurity,Cloud security misconfigurations,Research Digest,The Research Behind Cloud security misconfigurations: What's Actually Changed
+708,246,Software Engineering,Low-code/no-code platforms,Research Digest,The Research Behind Low-code/no-code platforms: What's Actually Changed
+709,390,Web Development,E-commerce platforms,Research Digest,The Research Behind E-commerce platforms: What's Actually Changed
+710,534,IT Support and Infrastructure,Kubernetes and container orchestration,Research Digest,The Research Behind Kubernetes and container orchestration: What's Actually Changed
+711,678,Data and Analytics,Data engineering as a career,Research Digest,The Research Behind Data engineering as a career: What's Actually Changed
+712,822,AI and Automation,AI regulation and policy,Research Digest,The Research Behind AI regulation and policy: What's Actually Changed
+713,966,Tech Training and Research,Finding a tech mentor,Research Digest,The Research Behind Finding a tech mentor: What's Actually Changed
+714,103,Cybersecurity,Endpoint detection and response (EDR),Then vs Now,Endpoint detection and response (EDR): 2005 vs Today
+715,247,Software Engineering,Pair programming,Then vs Now,Pair programming: 2005 vs Today
+716,391,Web Development,Web3 and the decentralized web,Then vs Now,Web3 and the decentralized web: 2005 vs Today
+717,535,IT Support and Infrastructure,Cloud migration,Then vs Now,Cloud migration: 2005 vs Today
+718,679,Data and Analytics,Dashboards and KPIs,Then vs Now,Dashboards and KPIs: 2005 vs Today
+719,823,AI and Automation,Voice assistants,Then vs Now,Voice assistants: 2005 vs Today
+720,967,Tech Training and Research,Imposter syndrome in tech,Then vs Now,Imposter syndrome in tech: 2005 vs Today
+721,104,Cybersecurity,Endpoint detection and response (EDR),Explain it Twice,What Is Endpoint detection and response (EDR) — Explained Twice (Beginner + Technical)
+722,248,Software Engineering,Pair programming,Explain it Twice,What Is Pair programming — Explained Twice (Beginner + Technical)
+723,392,Web Development,Web3 and the decentralized web,Explain it Twice,What Is Web3 and the decentralized web — Explained Twice (Beginner + Technical)
+724,536,IT Support and Infrastructure,Cloud migration,Explain it Twice,What Is Cloud migration — Explained Twice (Beginner + Technical)
+725,680,Data and Analytics,Dashboards and KPIs,Explain it Twice,What Is Dashboards and KPIs — Explained Twice (Beginner + Technical)
+726,824,AI and Automation,Voice assistants,Explain it Twice,What Is Voice assistants — Explained Twice (Beginner + Technical)
+727,968,Tech Training and Research,Imposter syndrome in tech,Explain it Twice,What Is Imposter syndrome in tech — Explained Twice (Beginner + Technical)
+728,105,Cybersecurity,Endpoint detection and response (EDR),Myth vs Reality,Endpoint detection and response (EDR): Myth vs Reality
+729,249,Software Engineering,Pair programming,Myth vs Reality,Pair programming: Myth vs Reality
+730,393,Web Development,Web3 and the decentralized web,Myth vs Reality,Web3 and the decentralized web: Myth vs Reality
+731,537,IT Support and Infrastructure,Cloud migration,Myth vs Reality,Cloud migration: Myth vs Reality
+732,681,Data and Analytics,Dashboards and KPIs,Myth vs Reality,Dashboards and KPIs: Myth vs Reality
+733,825,AI and Automation,Voice assistants,Myth vs Reality,Voice assistants: Myth vs Reality
+734,969,Tech Training and Research,Imposter syndrome in tech,Myth vs Reality,Imposter syndrome in tech: Myth vs Reality
+735,106,Cybersecurity,Endpoint detection and response (EDR),5-Minute Practical,Endpoint detection and response (EDR) in 5 Minutes: What You Actually Need to Know
+736,250,Software Engineering,Pair programming,5-Minute Practical,Pair programming in 5 Minutes: What You Actually Need to Know
+737,394,Web Development,Web3 and the decentralized web,5-Minute Practical,Web3 and the decentralized web in 5 Minutes: What You Actually Need to Know
+738,538,IT Support and Infrastructure,Cloud migration,5-Minute Practical,Cloud migration in 5 Minutes: What You Actually Need to Know
+739,682,Data and Analytics,Dashboards and KPIs,5-Minute Practical,Dashboards and KPIs in 5 Minutes: What You Actually Need to Know
+740,826,AI and Automation,Voice assistants,5-Minute Practical,Voice assistants in 5 Minutes: What You Actually Need to Know
+741,970,Tech Training and Research,Imposter syndrome in tech,5-Minute Practical,Imposter syndrome in tech in 5 Minutes: What You Actually Need to Know
+742,107,Cybersecurity,Endpoint detection and response (EDR),Field Breakdown,Where Endpoint detection and response (EDR) Actually Shows Up in Real Tech Jobs
+743,251,Software Engineering,Pair programming,Field Breakdown,Where Pair programming Actually Shows Up in Real Tech Jobs
+744,395,Web Development,Web3 and the decentralized web,Field Breakdown,Where Web3 and the decentralized web Actually Shows Up in Real Tech Jobs
+745,539,IT Support and Infrastructure,Cloud migration,Field Breakdown,Where Cloud migration Actually Shows Up in Real Tech Jobs
+746,683,Data and Analytics,Dashboards and KPIs,Field Breakdown,Where Dashboards and KPIs Actually Shows Up in Real Tech Jobs
+747,827,AI and Automation,Voice assistants,Field Breakdown,Where Voice assistants Actually Shows Up in Real Tech Jobs
+748,971,Tech Training and Research,Imposter syndrome in tech,Field Breakdown,Where Imposter syndrome in tech Actually Shows Up in Real Tech Jobs
+749,108,Cybersecurity,Endpoint detection and response (EDR),Research Digest,The Research Behind Endpoint detection and response (EDR): What's Actually Changed
+750,252,Software Engineering,Pair programming,Research Digest,The Research Behind Pair programming: What's Actually Changed
+751,396,Web Development,Web3 and the decentralized web,Research Digest,The Research Behind Web3 and the decentralized web: What's Actually Changed
+752,540,IT Support and Infrastructure,Cloud migration,Research Digest,The Research Behind Cloud migration: What's Actually Changed
+753,684,Data and Analytics,Dashboards and KPIs,Research Digest,The Research Behind Dashboards and KPIs: What's Actually Changed
+754,828,AI and Automation,Voice assistants,Research Digest,The Research Behind Voice assistants: What's Actually Changed
+755,972,Tech Training and Research,Imposter syndrome in tech,Research Digest,The Research Behind Imposter syndrome in tech: What's Actually Changed
+756,109,Cybersecurity,SIEM systems,Then vs Now,SIEM systems: 2005 vs Today
+757,253,Software Engineering,MVC and layered architecture,Then vs Now,MVC and layered architecture: 2005 vs Today
+758,397,Web Development,Cookies and web tracking,Then vs Now,Cookies and web tracking: 2005 vs Today
+759,541,IT Support and Infrastructure,IT asset management,Then vs Now,IT asset management: 2005 vs Today
+760,685,Data and Analytics,Data storytelling,Then vs Now,Data storytelling: 2005 vs Today
+761,829,AI and Automation,Self-driving and autonomous vehicles,Then vs Now,Self-driving and autonomous vehicles: 2005 vs Today
+762,973,Tech Training and Research,Choosing a tech specialization,Then vs Now,Choosing a tech specialization: 2005 vs Today
+763,110,Cybersecurity,SIEM systems,Explain it Twice,What Is SIEM systems — Explained Twice (Beginner + Technical)
+764,254,Software Engineering,MVC and layered architecture,Explain it Twice,What Is MVC and layered architecture — Explained Twice (Beginner + Technical)
+765,398,Web Development,Cookies and web tracking,Explain it Twice,What Is Cookies and web tracking — Explained Twice (Beginner + Technical)
+766,542,IT Support and Infrastructure,IT asset management,Explain it Twice,What Is IT asset management — Explained Twice (Beginner + Technical)
+767,686,Data and Analytics,Data storytelling,Explain it Twice,What Is Data storytelling — Explained Twice (Beginner + Technical)
+768,830,AI and Automation,Self-driving and autonomous vehicles,Explain it Twice,What Is Self-driving and autonomous vehicles — Explained Twice (Beginner + Technical)
+769,974,Tech Training and Research,Choosing a tech specialization,Explain it Twice,What Is Choosing a tech specialization — Explained Twice (Beginner + Technical)
+770,111,Cybersecurity,SIEM systems,Myth vs Reality,SIEM systems: Myth vs Reality
+771,255,Software Engineering,MVC and layered architecture,Myth vs Reality,MVC and layered architecture: Myth vs Reality
+772,399,Web Development,Cookies and web tracking,Myth vs Reality,Cookies and web tracking: Myth vs Reality
+773,543,IT Support and Infrastructure,IT asset management,Myth vs Reality,IT asset management: Myth vs Reality
+774,687,Data and Analytics,Data storytelling,Myth vs Reality,Data storytelling: Myth vs Reality
+775,831,AI and Automation,Self-driving and autonomous vehicles,Myth vs Reality,Self-driving and autonomous vehicles: Myth vs Reality
+776,975,Tech Training and Research,Choosing a tech specialization,Myth vs Reality,Choosing a tech specialization: Myth vs Reality
+777,112,Cybersecurity,SIEM systems,5-Minute Practical,SIEM systems in 5 Minutes: What You Actually Need to Know
+778,256,Software Engineering,MVC and layered architecture,5-Minute Practical,MVC and layered architecture in 5 Minutes: What You Actually Need to Know
+779,400,Web Development,Cookies and web tracking,5-Minute Practical,Cookies and web tracking in 5 Minutes: What You Actually Need to Know
+780,544,IT Support and Infrastructure,IT asset management,5-Minute Practical,IT asset management in 5 Minutes: What You Actually Need to Know
+781,688,Data and Analytics,Data storytelling,5-Minute Practical,Data storytelling in 5 Minutes: What You Actually Need to Know
+782,832,AI and Automation,Self-driving and autonomous vehicles,5-Minute Practical,Self-driving and autonomous vehicles in 5 Minutes: What You Actually Need to Know
+783,976,Tech Training and Research,Choosing a tech specialization,5-Minute Practical,Choosing a tech specialization in 5 Minutes: What You Actually Need to Know
+784,113,Cybersecurity,SIEM systems,Field Breakdown,Where SIEM systems Actually Shows Up in Real Tech Jobs
+785,257,Software Engineering,MVC and layered architecture,Field Breakdown,Where MVC and layered architecture Actually Shows Up in Real Tech Jobs
+786,401,Web Development,Cookies and web tracking,Field Breakdown,Where Cookies and web tracking Actually Shows Up in Real Tech Jobs
+787,545,IT Support and Infrastructure,IT asset management,Field Breakdown,Where IT asset management Actually Shows Up in Real Tech Jobs
+788,689,Data and Analytics,Data storytelling,Field Breakdown,Where Data storytelling Actually Shows Up in Real Tech Jobs
+789,833,AI and Automation,Self-driving and autonomous vehicles,Field Breakdown,Where Self-driving and autonomous vehicles Actually Shows Up in Real Tech Jobs
+790,977,Tech Training and Research,Choosing a tech specialization,Field Breakdown,Where Choosing a tech specialization Actually Shows Up in Real Tech Jobs
+791,114,Cybersecurity,SIEM systems,Research Digest,The Research Behind SIEM systems: What's Actually Changed
+792,258,Software Engineering,MVC and layered architecture,Research Digest,The Research Behind MVC and layered architecture: What's Actually Changed
+793,402,Web Development,Cookies and web tracking,Research Digest,The Research Behind Cookies and web tracking: What's Actually Changed
+794,546,IT Support and Infrastructure,IT asset management,Research Digest,The Research Behind IT asset management: What's Actually Changed
+795,690,Data and Analytics,Data storytelling,Research Digest,The Research Behind Data storytelling: What's Actually Changed
+796,834,AI and Automation,Self-driving and autonomous vehicles,Research Digest,The Research Behind Self-driving and autonomous vehicles: What's Actually Changed
+797,978,Tech Training and Research,Choosing a tech specialization,Research Digest,The Research Behind Choosing a tech specialization: What's Actually Changed
+798,115,Cybersecurity,Biometric authentication,Then vs Now,Biometric authentication: 2005 vs Today
+799,259,Software Engineering,Legacy code maintenance,Then vs Now,Legacy code maintenance: 2005 vs Today
+800,403,Web Development,Single Page Applications,Then vs Now,Single Page Applications: 2005 vs Today
+801,547,IT Support and Infrastructure,Legacy peripheral management,Then vs Now,Legacy peripheral management: 2005 vs Today
+802,691,Data and Analytics,Survey and experimental data analysis,Then vs Now,Survey and experimental data analysis: 2005 vs Today
+803,835,AI and Automation,AI in healthcare,Then vs Now,AI in healthcare: 2005 vs Today
+804,979,Tech Training and Research,Studying for CS exams effectively,Then vs Now,Studying for CS exams effectively: 2005 vs Today
+805,116,Cybersecurity,Biometric authentication,Explain it Twice,What Is Biometric authentication — Explained Twice (Beginner + Technical)
+806,260,Software Engineering,Legacy code maintenance,Explain it Twice,What Is Legacy code maintenance — Explained Twice (Beginner + Technical)
+807,404,Web Development,Single Page Applications,Explain it Twice,What Is Single Page Applications — Explained Twice (Beginner + Technical)
+808,548,IT Support and Infrastructure,Legacy peripheral management,Explain it Twice,What Is Legacy peripheral management — Explained Twice (Beginner + Technical)
+809,692,Data and Analytics,Survey and experimental data analysis,Explain it Twice,What Is Survey and experimental data analysis — Explained Twice (Beginner + Technical)
+810,836,AI and Automation,AI in healthcare,Explain it Twice,What Is AI in healthcare — Explained Twice (Beginner + Technical)
+811,980,Tech Training and Research,Studying for CS exams effectively,Explain it Twice,What Is Studying for CS exams effectively — Explained Twice (Beginner + Technical)
+812,117,Cybersecurity,Biometric authentication,Myth vs Reality,Biometric authentication: Myth vs Reality
+813,261,Software Engineering,Legacy code maintenance,Myth vs Reality,Legacy code maintenance: Myth vs Reality
+814,405,Web Development,Single Page Applications,Myth vs Reality,Single Page Applications: Myth vs Reality
+815,549,IT Support and Infrastructure,Legacy peripheral management,Myth vs Reality,Legacy peripheral management: Myth vs Reality
+816,693,Data and Analytics,Survey and experimental data analysis,Myth vs Reality,Survey and experimental data analysis: Myth vs Reality
+817,837,AI and Automation,AI in healthcare,Myth vs Reality,AI in healthcare: Myth vs Reality
+818,981,Tech Training and Research,Studying for CS exams effectively,Myth vs Reality,Studying for CS exams effectively: Myth vs Reality
+819,118,Cybersecurity,Biometric authentication,5-Minute Practical,Biometric authentication in 5 Minutes: What You Actually Need to Know
+820,262,Software Engineering,Legacy code maintenance,5-Minute Practical,Legacy code maintenance in 5 Minutes: What You Actually Need to Know
+821,406,Web Development,Single Page Applications,5-Minute Practical,Single Page Applications in 5 Minutes: What You Actually Need to Know
+822,550,IT Support and Infrastructure,Legacy peripheral management,5-Minute Practical,Legacy peripheral management in 5 Minutes: What You Actually Need to Know
+823,694,Data and Analytics,Survey and experimental data analysis,5-Minute Practical,Survey and experimental data analysis in 5 Minutes: What You Actually Need to Know
+824,838,AI and Automation,AI in healthcare,5-Minute Practical,AI in healthcare in 5 Minutes: What You Actually Need to Know
+825,982,Tech Training and Research,Studying for CS exams effectively,5-Minute Practical,Studying for CS exams effectively in 5 Minutes: What You Actually Need to Know
+826,119,Cybersecurity,Biometric authentication,Field Breakdown,Where Biometric authentication Actually Shows Up in Real Tech Jobs
+827,263,Software Engineering,Legacy code maintenance,Field Breakdown,Where Legacy code maintenance Actually Shows Up in Real Tech Jobs
+828,407,Web Development,Single Page Applications,Field Breakdown,Where Single Page Applications Actually Shows Up in Real Tech Jobs
+829,551,IT Support and Infrastructure,Legacy peripheral management,Field Breakdown,Where Legacy peripheral management Actually Shows Up in Real Tech Jobs
+830,695,Data and Analytics,Survey and experimental data analysis,Field Breakdown,Where Survey and experimental data analysis Actually Shows Up in Real Tech Jobs
+831,839,AI and Automation,AI in healthcare,Field Breakdown,Where AI in healthcare Actually Shows Up in Real Tech Jobs
+832,983,Tech Training and Research,Studying for CS exams effectively,Field Breakdown,Where Studying for CS exams effectively Actually Shows Up in Real Tech Jobs
+833,120,Cybersecurity,Biometric authentication,Research Digest,The Research Behind Biometric authentication: What's Actually Changed
+834,264,Software Engineering,Legacy code maintenance,Research Digest,The Research Behind Legacy code maintenance: What's Actually Changed
+835,408,Web Development,Single Page Applications,Research Digest,The Research Behind Single Page Applications: What's Actually Changed
+836,552,IT Support and Infrastructure,Legacy peripheral management,Research Digest,The Research Behind Legacy peripheral management: What's Actually Changed
+837,696,Data and Analytics,Survey and experimental data analysis,Research Digest,The Research Behind Survey and experimental data analysis: What's Actually Changed
+838,840,AI and Automation,AI in healthcare,Research Digest,The Research Behind AI in healthcare: What's Actually Changed
+839,984,Tech Training and Research,Studying for CS exams effectively,Research Digest,The Research Behind Studying for CS exams effectively: What's Actually Changed
+840,121,Cybersecurity,Dark web monitoring,Then vs Now,Dark web monitoring: 2005 vs Today
+841,265,Software Engineering,Open source contribution,Then vs Now,Open source contribution: 2005 vs Today
+842,409,Web Development,WebAssembly,Then vs Now,WebAssembly: 2005 vs Today
+843,553,IT Support and Infrastructure,Edge computing,Then vs Now,Edge computing: 2005 vs Today
+844,697,Data and Analytics,Data science vs data analytics,Then vs Now,Data science vs data analytics: 2005 vs Today
+845,841,AI and Automation,The AI job displacement debate,Then vs Now,The AI job displacement debate: 2005 vs Today
+846,985,Tech Training and Research,Personal branding for developers,Then vs Now,Personal branding for developers: 2005 vs Today
+847,122,Cybersecurity,Dark web monitoring,Explain it Twice,What Is Dark web monitoring — Explained Twice (Beginner + Technical)
+848,266,Software Engineering,Open source contribution,Explain it Twice,What Is Open source contribution — Explained Twice (Beginner + Technical)
+849,410,Web Development,WebAssembly,Explain it Twice,What Is WebAssembly — Explained Twice (Beginner + Technical)
+850,554,IT Support and Infrastructure,Edge computing,Explain it Twice,What Is Edge computing — Explained Twice (Beginner + Technical)
+851,698,Data and Analytics,Data science vs data analytics,Explain it Twice,What Is Data science vs data analytics — Explained Twice (Beginner + Technical)
+852,842,AI and Automation,The AI job displacement debate,Explain it Twice,What Is The AI job displacement debate — Explained Twice (Beginner + Technical)
+853,986,Tech Training and Research,Personal branding for developers,Explain it Twice,What Is Personal branding for developers — Explained Twice (Beginner + Technical)
+854,123,Cybersecurity,Dark web monitoring,Myth vs Reality,Dark web monitoring: Myth vs Reality
+855,267,Software Engineering,Open source contribution,Myth vs Reality,Open source contribution: Myth vs Reality
+856,411,Web Development,WebAssembly,Myth vs Reality,WebAssembly: Myth vs Reality
+857,555,IT Support and Infrastructure,Edge computing,Myth vs Reality,Edge computing: Myth vs Reality
+858,699,Data and Analytics,Data science vs data analytics,Myth vs Reality,Data science vs data analytics: Myth vs Reality
+859,843,AI and Automation,The AI job displacement debate,Myth vs Reality,The AI job displacement debate: Myth vs Reality
+860,987,Tech Training and Research,Personal branding for developers,Myth vs Reality,Personal branding for developers: Myth vs Reality
+861,124,Cybersecurity,Dark web monitoring,5-Minute Practical,Dark web monitoring in 5 Minutes: What You Actually Need to Know
+862,268,Software Engineering,Open source contribution,5-Minute Practical,Open source contribution in 5 Minutes: What You Actually Need to Know
+863,412,Web Development,WebAssembly,5-Minute Practical,WebAssembly in 5 Minutes: What You Actually Need to Know
+864,556,IT Support and Infrastructure,Edge computing,5-Minute Practical,Edge computing in 5 Minutes: What You Actually Need to Know
+865,700,Data and Analytics,Data science vs data analytics,5-Minute Practical,Data science vs data analytics in 5 Minutes: What You Actually Need to Know
+866,844,AI and Automation,The AI job displacement debate,5-Minute Practical,The AI job displacement debate in 5 Minutes: What You Actually Need to Know
+867,988,Tech Training and Research,Personal branding for developers,5-Minute Practical,Personal branding for developers in 5 Minutes: What You Actually Need to Know
+868,125,Cybersecurity,Dark web monitoring,Field Breakdown,Where Dark web monitoring Actually Shows Up in Real Tech Jobs
+869,269,Software Engineering,Open source contribution,Field Breakdown,Where Open source contribution Actually Shows Up in Real Tech Jobs
+870,413,Web Development,WebAssembly,Field Breakdown,Where WebAssembly Actually Shows Up in Real Tech Jobs
+871,557,IT Support and Infrastructure,Edge computing,Field Breakdown,Where Edge computing Actually Shows Up in Real Tech Jobs
+872,701,Data and Analytics,Data science vs data analytics,Field Breakdown,Where Data science vs data analytics Actually Shows Up in Real Tech Jobs
+873,845,AI and Automation,The AI job displacement debate,Field Breakdown,Where The AI job displacement debate Actually Shows Up in Real Tech Jobs
+874,989,Tech Training and Research,Personal branding for developers,Field Breakdown,Where Personal branding for developers Actually Shows Up in Real Tech Jobs
+875,126,Cybersecurity,Dark web monitoring,Research Digest,The Research Behind Dark web monitoring: What's Actually Changed
+876,270,Software Engineering,Open source contribution,Research Digest,The Research Behind Open source contribution: What's Actually Changed
+877,414,Web Development,WebAssembly,Research Digest,The Research Behind WebAssembly: What's Actually Changed
+878,558,IT Support and Infrastructure,Edge computing,Research Digest,The Research Behind Edge computing: What's Actually Changed
+879,702,Data and Analytics,Data science vs data analytics,Research Digest,The Research Behind Data science vs data analytics: What's Actually Changed
+880,846,AI and Automation,The AI job displacement debate,Research Digest,The Research Behind The AI job displacement debate: What's Actually Changed
+881,990,Tech Training and Research,Personal branding for developers,Research Digest,The Research Behind Personal branding for developers: What's Actually Changed
+882,127,Cybersecurity,Supply chain attacks,Then vs Now,Supply chain attacks: 2005 vs Today
+883,271,Software Engineering,Types of software testing,Then vs Now,Types of software testing: 2005 vs Today
+884,415,Web Development,No-code website builders,Then vs Now,No-code website builders: 2005 vs Today
+885,559,IT Support and Infrastructure,Uptime and monitoring,Then vs Now,Uptime and monitoring: 2005 vs Today
+886,703,Data and Analytics,Spreadsheet automation,Then vs Now,Spreadsheet automation: 2005 vs Today
+887,847,AI and Automation,Open-source AI models,Then vs Now,Open-source AI models: 2005 vs Today
+888,991,Tech Training and Research,Building a study system,Then vs Now,Building a study system: 2005 vs Today
+889,128,Cybersecurity,Supply chain attacks,Explain it Twice,What Is Supply chain attacks — Explained Twice (Beginner + Technical)
+890,272,Software Engineering,Types of software testing,Explain it Twice,What Is Types of software testing — Explained Twice (Beginner + Technical)
+891,416,Web Development,No-code website builders,Explain it Twice,What Is No-code website builders — Explained Twice (Beginner + Technical)
+892,560,IT Support and Infrastructure,Uptime and monitoring,Explain it Twice,What Is Uptime and monitoring — Explained Twice (Beginner + Technical)
+893,704,Data and Analytics,Spreadsheet automation,Explain it Twice,What Is Spreadsheet automation — Explained Twice (Beginner + Technical)
+894,848,AI and Automation,Open-source AI models,Explain it Twice,What Is Open-source AI models — Explained Twice (Beginner + Technical)
+895,992,Tech Training and Research,Building a study system,Explain it Twice,What Is Building a study system — Explained Twice (Beginner + Technical)
+896,129,Cybersecurity,Supply chain attacks,Myth vs Reality,Supply chain attacks: Myth vs Reality
+897,273,Software Engineering,Types of software testing,Myth vs Reality,Types of software testing: Myth vs Reality
+898,417,Web Development,No-code website builders,Myth vs Reality,No-code website builders: Myth vs Reality
+899,561,IT Support and Infrastructure,Uptime and monitoring,Myth vs Reality,Uptime and monitoring: Myth vs Reality
+900,705,Data and Analytics,Spreadsheet automation,Myth vs Reality,Spreadsheet automation: Myth vs Reality
+901,849,AI and Automation,Open-source AI models,Myth vs Reality,Open-source AI models: Myth vs Reality
+902,993,Tech Training and Research,Building a study system,Myth vs Reality,Building a study system: Myth vs Reality
+903,130,Cybersecurity,Supply chain attacks,5-Minute Practical,Supply chain attacks in 5 Minutes: What You Actually Need to Know
+904,274,Software Engineering,Types of software testing,5-Minute Practical,Types of software testing in 5 Minutes: What You Actually Need to Know
+905,418,Web Development,No-code website builders,5-Minute Practical,No-code website builders in 5 Minutes: What You Actually Need to Know
+906,562,IT Support and Infrastructure,Uptime and monitoring,5-Minute Practical,Uptime and monitoring in 5 Minutes: What You Actually Need to Know
+907,706,Data and Analytics,Spreadsheet automation,5-Minute Practical,Spreadsheet automation in 5 Minutes: What You Actually Need to Know
+908,850,AI and Automation,Open-source AI models,5-Minute Practical,Open-source AI models in 5 Minutes: What You Actually Need to Know
+909,994,Tech Training and Research,Building a study system,5-Minute Practical,Building a study system in 5 Minutes: What You Actually Need to Know
+910,131,Cybersecurity,Supply chain attacks,Field Breakdown,Where Supply chain attacks Actually Shows Up in Real Tech Jobs
+911,275,Software Engineering,Types of software testing,Field Breakdown,Where Types of software testing Actually Shows Up in Real Tech Jobs
+912,419,Web Development,No-code website builders,Field Breakdown,Where No-code website builders Actually Shows Up in Real Tech Jobs
+913,563,IT Support and Infrastructure,Uptime and monitoring,Field Breakdown,Where Uptime and monitoring Actually Shows Up in Real Tech Jobs
+914,707,Data and Analytics,Spreadsheet automation,Field Breakdown,Where Spreadsheet automation Actually Shows Up in Real Tech Jobs
+915,851,AI and Automation,Open-source AI models,Field Breakdown,Where Open-source AI models Actually Shows Up in Real Tech Jobs
+916,995,Tech Training and Research,Building a study system,Field Breakdown,Where Building a study system Actually Shows Up in Real Tech Jobs
+917,132,Cybersecurity,Supply chain attacks,Research Digest,The Research Behind Supply chain attacks: What's Actually Changed
+918,276,Software Engineering,Types of software testing,Research Digest,The Research Behind Types of software testing: What's Actually Changed
+919,420,Web Development,No-code website builders,Research Digest,The Research Behind No-code website builders: What's Actually Changed
+920,564,IT Support and Infrastructure,Uptime and monitoring,Research Digest,The Research Behind Uptime and monitoring: What's Actually Changed
+921,708,Data and Analytics,Spreadsheet automation,Research Digest,The Research Behind Spreadsheet automation: What's Actually Changed
+922,852,AI and Automation,Open-source AI models,Research Digest,The Research Behind Open-source AI models: What's Actually Changed
+923,996,Tech Training and Research,Building a study system,Research Digest,The Research Behind Building a study system: What's Actually Changed
+924,133,Cybersecurity,IoT device security,Then vs Now,IoT device security: 2005 vs Today
+925,277,Software Engineering,Clean code principles,Then vs Now,Clean code principles: 2005 vs Today
+926,421,Web Development,SEO fundamentals,Then vs Now,SEO fundamentals: 2005 vs Today
+927,565,IT Support and Infrastructure,VoIP and unified communications,Then vs Now,VoIP and unified communications: 2005 vs Today
+928,709,Data and Analytics,Database indexing and performance,Then vs Now,Database indexing and performance: 2005 vs Today
+929,853,AI and Automation,AI hallucinations,Then vs Now,AI hallucinations: 2005 vs Today
+930,997,Tech Training and Research,Time management for tech students,Then vs Now,Time management for tech students: 2005 vs Today
+931,134,Cybersecurity,IoT device security,Explain it Twice,What Is IoT device security — Explained Twice (Beginner + Technical)
+932,278,Software Engineering,Clean code principles,Explain it Twice,What Is Clean code principles — Explained Twice (Beginner + Technical)
+933,422,Web Development,SEO fundamentals,Explain it Twice,What Is SEO fundamentals — Explained Twice (Beginner + Technical)
+934,566,IT Support and Infrastructure,VoIP and unified communications,Explain it Twice,What Is VoIP and unified communications — Explained Twice (Beginner + Technical)
+935,710,Data and Analytics,Database indexing and performance,Explain it Twice,What Is Database indexing and performance — Explained Twice (Beginner + Technical)
+936,854,AI and Automation,AI hallucinations,Explain it Twice,What Is AI hallucinations — Explained Twice (Beginner + Technical)
+937,998,Tech Training and Research,Time management for tech students,Explain it Twice,What Is Time management for tech students — Explained Twice (Beginner + Technical)
+938,135,Cybersecurity,IoT device security,Myth vs Reality,IoT device security: Myth vs Reality
+939,279,Software Engineering,Clean code principles,Myth vs Reality,Clean code principles: Myth vs Reality
+940,423,Web Development,SEO fundamentals,Myth vs Reality,SEO fundamentals: Myth vs Reality
+941,567,IT Support and Infrastructure,VoIP and unified communications,Myth vs Reality,VoIP and unified communications: Myth vs Reality
+942,711,Data and Analytics,Database indexing and performance,Myth vs Reality,Database indexing and performance: Myth vs Reality
+943,855,AI and Automation,AI hallucinations,Myth vs Reality,AI hallucinations: Myth vs Reality
+944,999,Tech Training and Research,Time management for tech students,Myth vs Reality,Time management for tech students: Myth vs Reality
+945,136,Cybersecurity,IoT device security,5-Minute Practical,IoT device security in 5 Minutes: What You Actually Need to Know
+946,280,Software Engineering,Clean code principles,5-Minute Practical,Clean code principles in 5 Minutes: What You Actually Need to Know
+947,424,Web Development,SEO fundamentals,5-Minute Practical,SEO fundamentals in 5 Minutes: What You Actually Need to Know
+948,568,IT Support and Infrastructure,VoIP and unified communications,5-Minute Practical,VoIP and unified communications in 5 Minutes: What You Actually Need to Know
+949,712,Data and Analytics,Database indexing and performance,5-Minute Practical,Database indexing and performance in 5 Minutes: What You Actually Need to Know
+950,856,AI and Automation,AI hallucinations,5-Minute Practical,AI hallucinations in 5 Minutes: What You Actually Need to Know
+951,1000,Tech Training and Research,Time management for tech students,5-Minute Practical,Time management for tech students in 5 Minutes: What You Actually Need to Know
+952,137,Cybersecurity,IoT device security,Field Breakdown,Where IoT device security Actually Shows Up in Real Tech Jobs
+953,281,Software Engineering,Clean code principles,Field Breakdown,Where Clean code principles Actually Shows Up in Real Tech Jobs
+954,425,Web Development,SEO fundamentals,Field Breakdown,Where SEO fundamentals Actually Shows Up in Real Tech Jobs
+955,569,IT Support and Infrastructure,VoIP and unified communications,Field Breakdown,Where VoIP and unified communications Actually Shows Up in Real Tech Jobs
+956,713,Data and Analytics,Database indexing and performance,Field Breakdown,Where Database indexing and performance Actually Shows Up in Real Tech Jobs
+957,857,AI and Automation,AI hallucinations,Field Breakdown,Where AI hallucinations Actually Shows Up in Real Tech Jobs
+958,1001,Tech Training and Research,Time management for tech students,Field Breakdown,Where Time management for tech students Actually Shows Up in Real Tech Jobs
+959,138,Cybersecurity,IoT device security,Research Digest,The Research Behind IoT device security: What's Actually Changed
+960,282,Software Engineering,Clean code principles,Research Digest,The Research Behind Clean code principles: What's Actually Changed
+961,426,Web Development,SEO fundamentals,Research Digest,The Research Behind SEO fundamentals: What's Actually Changed
+962,570,IT Support and Infrastructure,VoIP and unified communications,Research Digest,The Research Behind VoIP and unified communications: What's Actually Changed
+963,714,Data and Analytics,Database indexing and performance,Research Digest,The Research Behind Database indexing and performance: What's Actually Changed
+964,858,AI and Automation,AI hallucinations,Research Digest,The Research Behind AI hallucinations: What's Actually Changed
+965,1002,Tech Training and Research,Time management for tech students,Research Digest,The Research Behind Time management for tech students: What's Actually Changed
+966,139,Cybersecurity,AI-powered cyberattacks,Then vs Now,AI-powered cyberattacks: 2005 vs Today
+967,283,Software Engineering,AI pair-programming tools,Then vs Now,AI pair-programming tools: 2005 vs Today
+968,427,Web Development,"Web security basics (CORS, CSP)",Then vs Now,"Web security basics (CORS, CSP): 2005 vs Today"
+969,571,IT Support and Infrastructure,Green and sustainable IT,Then vs Now,Green and sustainable IT: 2005 vs Today
+970,715,Data and Analytics,Open data and public datasets,Then vs Now,Open data and public datasets: 2005 vs Today
+971,859,AI and Automation,Automating everyday workflows with AI,Then vs Now,Automating everyday workflows with AI: 2005 vs Today
+972,1003,Tech Training and Research,Going from student to professional,Then vs Now,Going from student to professional: 2005 vs Today
+973,140,Cybersecurity,AI-powered cyberattacks,Explain it Twice,What Is AI-powered cyberattacks — Explained Twice (Beginner + Technical)
+974,284,Software Engineering,AI pair-programming tools,Explain it Twice,What Is AI pair-programming tools — Explained Twice (Beginner + Technical)
+975,428,Web Development,"Web security basics (CORS, CSP)",Explain it Twice,"What Is Web security basics (CORS, CSP) — Explained Twice (Beginner + Technical)"
+976,572,IT Support and Infrastructure,Green and sustainable IT,Explain it Twice,What Is Green and sustainable IT — Explained Twice (Beginner + Technical)
+977,716,Data and Analytics,Open data and public datasets,Explain it Twice,What Is Open data and public datasets — Explained Twice (Beginner + Technical)
+978,860,AI and Automation,Automating everyday workflows with AI,Explain it Twice,What Is Automating everyday workflows with AI — Explained Twice (Beginner + Technical)
+979,1004,Tech Training and Research,Going from student to professional,Explain it Twice,What Is Going from student to professional — Explained Twice (Beginner + Technical)
+980,141,Cybersecurity,AI-powered cyberattacks,Myth vs Reality,AI-powered cyberattacks: Myth vs Reality
+981,285,Software Engineering,AI pair-programming tools,Myth vs Reality,AI pair-programming tools: Myth vs Reality
+982,429,Web Development,"Web security basics (CORS, CSP)",Myth vs Reality,"Web security basics (CORS, CSP): Myth vs Reality"
+983,573,IT Support and Infrastructure,Green and sustainable IT,Myth vs Reality,Green and sustainable IT: Myth vs Reality
+984,717,Data and Analytics,Open data and public datasets,Myth vs Reality,Open data and public datasets: Myth vs Reality
+985,861,AI and Automation,Automating everyday workflows with AI,Myth vs Reality,Automating everyday workflows with AI: Myth vs Reality
+986,1005,Tech Training and Research,Going from student to professional,Myth vs Reality,Going from student to professional: Myth vs Reality
+987,142,Cybersecurity,AI-powered cyberattacks,5-Minute Practical,AI-powered cyberattacks in 5 Minutes: What You Actually Need to Know
+988,286,Software Engineering,AI pair-programming tools,5-Minute Practical,AI pair-programming tools in 5 Minutes: What You Actually Need to Know
+989,430,Web Development,"Web security basics (CORS, CSP)",5-Minute Practical,"Web security basics (CORS, CSP) in 5 Minutes: What You Actually Need to Know"
+990,574,IT Support and Infrastructure,Green and sustainable IT,5-Minute Practical,Green and sustainable IT in 5 Minutes: What You Actually Need to Know
+991,718,Data and Analytics,Open data and public datasets,5-Minute Practical,Open data and public datasets in 5 Minutes: What You Actually Need to Know
+992,862,AI and Automation,Automating everyday workflows with AI,5-Minute Practical,Automating everyday workflows with AI in 5 Minutes: What You Actually Need to Know
+993,1006,Tech Training and Research,Going from student to professional,5-Minute Practical,Going from student to professional in 5 Minutes: What You Actually Need to Know
+994,143,Cybersecurity,AI-powered cyberattacks,Field Breakdown,Where AI-powered cyberattacks Actually Shows Up in Real Tech Jobs
+995,287,Software Engineering,AI pair-programming tools,Field Breakdown,Where AI pair-programming tools Actually Shows Up in Real Tech Jobs
+996,431,Web Development,"Web security basics (CORS, CSP)",Field Breakdown,"Where Web security basics (CORS, CSP) Actually Shows Up in Real Tech Jobs"
+997,575,IT Support and Infrastructure,Green and sustainable IT,Field Breakdown,Where Green and sustainable IT Actually Shows Up in Real Tech Jobs
+998,719,Data and Analytics,Open data and public datasets,Field Breakdown,Where Open data and public datasets Actually Shows Up in Real Tech Jobs
+999,863,AI and Automation,Automating everyday workflows with AI,Field Breakdown,Where Automating everyday workflows with AI Actually Shows Up in Real Tech Jobs
+1000,1007,Tech Training and Research,Going from student to professional,Field Breakdown,Where Going from student to professional Actually Shows Up in Real Tech Jobs
+1001,144,Cybersecurity,AI-powered cyberattacks,Research Digest,The Research Behind AI-powered cyberattacks: What's Actually Changed
+1002,288,Software Engineering,AI pair-programming tools,Research Digest,The Research Behind AI pair-programming tools: What's Actually Changed
+1003,432,Web Development,"Web security basics (CORS, CSP)",Research Digest,"The Research Behind Web security basics (CORS, CSP): What's Actually Changed"
+1004,576,IT Support and Infrastructure,Green and sustainable IT,Research Digest,The Research Behind Green and sustainable IT: What's Actually Changed
+1005,720,Data and Analytics,Open data and public datasets,Research Digest,The Research Behind Open data and public datasets: What's Actually Changed
+1006,864,AI and Automation,Automating everyday workflows with AI,Research Digest,The Research Behind Automating everyday workflows with AI: What's Actually Changed
+1007,1008,Tech Training and Research,Going from student to professional,Research Digest,The Research Behind Going from student to professional: What's Actually Changed
