@@ -1,5 +1,5 @@
 {
-  "next": 2,
+  "next": 3,
   "posted": [
     {
       "idx": 98,
@@ -19,6 +19,13 @@
       "title": "Git and version control: 2005 vs Today",
       "media_id": "18179879080445689",
       "posted_at": "2026-11-21T06:20:00Z",
+      "type": "reel"
+    },
+    {
+      "idx": 2,
+      "title": "HTML and CSS evolution: 2005 vs Today",
+      "media_id": "17869101846675693",
+      "posted_at": "2026-11-21T10:20:00Z",
       "type": "reel"
     }
   ],
