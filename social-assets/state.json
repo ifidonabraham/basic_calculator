@@ -1,5 +1,5 @@
 {
-  "next": 3,
+  "next": 4,
   "posted": [
     {
       "idx": 98,
@@ -26,6 +26,13 @@
       "title": "HTML and CSS evolution: 2005 vs Today",
       "media_id": "17869101846675693",
       "posted_at": "2026-11-21T10:20:00Z",
+      "type": "reel"
+    },
+    {
+      "idx": 3,
+      "title": "Networking basics (TCP/IP): 2005 vs Today",
+      "media_id": "17945215416099443",
+      "posted_at": "2026-11-21T13:15:00Z",
       "type": "reel"
     }
   ],
