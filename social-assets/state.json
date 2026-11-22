@@ -1,5 +1,5 @@
 {
-  "next": 6,
+  "next": 7,
   "posted": [
     {
       "idx": 98,
@@ -47,6 +47,13 @@
       "title": "Machine learning basics: 2005 vs Today",
       "media_id": "17998174292841477",
       "posted_at": "2026-11-22T06:20:00Z",
+      "type": "reel"
+    },
+    {
+      "idx": 6,
+      "title": "CS degree vs bootcamp: 2005 vs Today",
+      "media_id": "18124041658740102",
+      "posted_at": "2026-11-22T10:16:00Z",
       "type": "reel"
     }
   ],
