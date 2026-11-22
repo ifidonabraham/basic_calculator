@@ -1,5 +1,5 @@
 {
-  "next": 8,
+  "next": 9,
   "posted": [
     {
       "idx": 98,
@@ -61,6 +61,13 @@
       "title": "What Is Firewalls \u2014 Explained Twice (Beginner + Technical)",
       "media_id": "17914837041580212",
       "posted_at": "2026-11-22T13:13:00Z",
+      "type": "reel"
+    },
+    {
+      "idx": 8,
+      "title": "What Is Git? Explained Twice",
+      "media_id": "18167456170494274",
+      "posted_at": "2026-11-22T17:14:00Z",
       "type": "reel"
     }
   ],
