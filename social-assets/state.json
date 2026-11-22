@@ -1,5 +1,5 @@
 {
-  "next": 9,
+  "next": 10,
   "posted": [
     {
       "idx": 98,
@@ -68,6 +68,13 @@
       "title": "What Is Git? Explained Twice",
       "media_id": "18167456170494274",
       "posted_at": "2026-11-22T17:14:00Z",
+      "type": "reel"
+    },
+    {
+      "idx": 9,
+      "title": "What Is HTML and CSS? Explained Twice",
+      "media_id": "18105217574544365",
+      "posted_at": "2026-11-22T19:20:00Z",
       "type": "reel"
     }
   ],
