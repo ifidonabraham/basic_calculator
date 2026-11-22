@@ -1,5 +1,5 @@
 {
-  "next": 7,
+  "next": 8,
   "posted": [
     {
       "idx": 98,
@@ -54,6 +54,13 @@
       "title": "CS degree vs bootcamp: 2005 vs Today",
       "media_id": "18124041658740102",
       "posted_at": "2026-11-22T10:16:00Z",
+      "type": "reel"
+    },
+    {
+      "idx": 7,
+      "title": "What Is Firewalls \u2014 Explained Twice (Beginner + Technical)",
+      "media_id": "17914837041580212",
+      "posted_at": "2026-11-22T13:13:00Z",
       "type": "reel"
     }
   ],
