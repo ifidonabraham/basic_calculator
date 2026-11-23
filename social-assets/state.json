@@ -1,5 +1,5 @@
 {
-  "next": 13,
+  "next": 14,
   "posted": [
     {
       "idx": 98,
@@ -96,6 +96,13 @@
       "title": "What Is Machine Learning? Explained Twice",
       "media_id": "18003141813031342",
       "posted_at": "2026-11-23T13:14:19Z",
+      "type": "reel"
+    },
+    {
+      "idx": 13,
+      "title": "CS Degree vs Bootcamp: Explained Twice",
+      "media_id": "18172762414477839",
+      "posted_at": "2026-11-23T17:14:39Z",
       "type": "reel"
     }
   ],
