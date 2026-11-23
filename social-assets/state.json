@@ -1,5 +1,5 @@
 {
-  "next": 14,
+  "next": 15,
   "posted": [
     {
       "idx": 98,
@@ -103,6 +103,13 @@
       "title": "CS Degree vs Bootcamp: Explained Twice",
       "media_id": "18172762414477839",
       "posted_at": "2026-11-23T17:14:39Z",
+      "type": "reel"
+    },
+    {
+      "idx": 14,
+      "title": "Firewalls: Myth vs Reality",
+      "media_id": "18099872456128029",
+      "posted_at": "2026-11-23T19:15:18Z",
       "type": "reel"
     }
   ],
