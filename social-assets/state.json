@@ -1,5 +1,5 @@
 {
-  "next": 10,
+  "next": 11,
   "posted": [
     {
       "idx": 98,
@@ -75,6 +75,13 @@
       "title": "What Is HTML and CSS? Explained Twice",
       "media_id": "18105217574544365",
       "posted_at": "2026-11-22T19:20:00Z",
+      "type": "reel"
+    },
+    {
+      "idx": 10,
+      "title": "What Is TCP/IP? Explained Twice",
+      "media_id": "18043356191839847",
+      "posted_at": "2026-11-23T06:13:56Z",
       "type": "reel"
     }
   ],
