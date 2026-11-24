@@ -1,5 +1,5 @@
 {
-  "next": 17,
+  "next": 18,
   "posted": [
     {
       "idx": 98,
@@ -124,6 +124,13 @@
       "title": "HTML and CSS evolution: Myth vs Reality",
       "media_id": "18123025289285132",
       "posted_at": "2026-11-24T10:14:20Z",
+      "type": "reel"
+    },
+    {
+      "idx": 17,
+      "title": "Networking basics (TCP/IP): Myth vs Reality",
+      "media_id": "18041146670847766",
+      "posted_at": "2026-11-24T17:14:18Z",
       "type": "reel"
     }
   ],
