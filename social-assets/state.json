@@ -1,5 +1,5 @@
 {
-  "next": 20,
+  "next": 21,
   "posted": [
     {
       "idx": 98,
@@ -145,6 +145,13 @@
       "title": "Machine learning basics: Myth vs Reality",
       "media_id": "18645308344046829",
       "posted_at": "2026-11-25T10:14:38Z",
+      "type": "reel"
+    },
+    {
+      "idx": 20,
+      "title": "CS degree vs bootcamp: Myth vs Reality",
+      "media_id": "17956122033046982",
+      "posted_at": "2026-11-25T13:14:57Z",
       "type": "reel"
     }
   ],
