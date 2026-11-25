@@ -1,5 +1,5 @@
 {
-  "next": 22,
+  "next": 23,
   "posted": [
     {
       "idx": 98,
@@ -159,6 +159,13 @@
       "title": "Firewalls in 5 Minutes: What You Actually Need to Know",
       "media_id": "17982605063922715",
       "posted_at": "2026-11-25T17:13:55Z",
+      "type": "reel"
+    },
+    {
+      "idx": 22,
+      "title": "Git and version control in 5 Minutes: What You Actually Need to Know",
+      "media_id": "18122179424060162",
+      "posted_at": "2026-11-25T19:15:11Z",
       "type": "reel"
     }
   ],
