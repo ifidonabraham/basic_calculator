@@ -1,5 +1,5 @@
 {
-  "next": 21,
+  "next": 22,
   "posted": [
     {
       "idx": 98,
@@ -152,6 +152,13 @@
       "title": "CS degree vs bootcamp: Myth vs Reality",
       "media_id": "17956122033046982",
       "posted_at": "2026-11-25T13:14:57Z",
+      "type": "reel"
+    },
+    {
+      "idx": 21,
+      "title": "Firewalls in 5 Minutes: What You Actually Need to Know",
+      "media_id": "17982605063922715",
+      "posted_at": "2026-11-25T17:13:55Z",
       "type": "reel"
     }
   ],
