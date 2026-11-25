@@ -1,5 +1,5 @@
 {
-  "next": 19,
+  "next": 20,
   "posted": [
     {
       "idx": 98,
@@ -138,6 +138,13 @@
       "title": "Relational databases and SQL: Myth vs Reality",
       "media_id": "18193133950414083",
       "posted_at": "2026-11-25T06:14:33Z",
+      "type": "reel"
+    },
+    {
+      "idx": 19,
+      "title": "Machine learning basics: Myth vs Reality",
+      "media_id": "18645308344046829",
+      "posted_at": "2026-11-25T10:14:38Z",
       "type": "reel"
     }
   ],
